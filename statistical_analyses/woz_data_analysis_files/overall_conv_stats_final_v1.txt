@@ -1,0 +1,195 @@
+++++++++++ active CONVS STATS ++++++++++
+============ GENERAL STATS ============
+Total Conversations: 24
+Total Utterances: 1928
+Average Utterances Char Length: 79.82137161084529
+Average Utterances Words Length: 14.596491228070175
+============ USER STATS ============
+Total User Utterances: 923
+Average User Utterances Char Length: 26.00433369447454
+Average User Utterances Words Length: 5.2513542795232935
+Distribution of information need type for user utterances:
+{'amount': 11,
+ 'cooking_technique': 25,
+ 'equipment': 18,
+ 'ingredient': 45,
+ 'knowledge': 117,
+ 'meal': 3,
+ 'preparation': 60,
+ 'recipe': 7,
+ 'temperature': 7,
+ 'time': 16}
+Distribution of information need type for user utterances:
+{'amount': 3.559870550161812,
+ 'cooking_technique': 8.090614886731391,
+ 'equipment': 5.825242718446602,
+ 'ingredient': 14.563106796116504,
+ 'knowledge': 37.86407766990291,
+ 'meal': 0.9708737864077669,
+ 'preparation': 19.41747572815534,
+ 'recipe': 2.26537216828479,
+ 'temperature': 2.26537216828479,
+ 'time': 5.177993527508091}
+Distribution of categories for user utterances averaged per conversation:
+{'amount': 14.832793959007551,
+ 'cooking_technique': 33.71089536138079,
+ 'equipment': 24.271844660194176,
+ 'ingredient': 60.679611650485434,
+ 'knowledge': 157.76699029126212,
+ 'meal': 4.0453074433656955,
+ 'preparation': 80.9061488673139,
+ 'recipe': 9.439050701186623,
+ 'temperature': 9.439050701186623,
+ 'time': 21.574973031283715}
+Distribution of information need subtype for user utterances:
+{'equipment': 6,
+ 'history': 20,
+ 'image': 1,
+ 'ingredient': 7,
+ 'picture': 1,
+ 'recipe': 1,
+ 'science': 36,
+ 'science_knowledge': 4,
+ 'step_importance': 41,
+ 'temperature': 1,
+ 'time': 1,
+ 'video': 8,
+ 'visual': 1}
+Distribution of information need subtype for user utterances:
+{'equipment': 4.6875,
+ 'history': 15.625,
+ 'image': 0.78125,
+ 'ingredient': 5.46875,
+ 'picture': 0.78125,
+ 'recipe': 0.78125,
+ 'science': 28.125,
+ 'science_knowledge': 3.125,
+ 'step_importance': 32.03125,
+ 'temperature': 0.78125,
+ 'time': 0.78125,
+ 'video': 6.25,
+ 'visual': 0.78125}
+Distribution of dialogue act categories for user utterances:
+{'answer': 113, 'other': 476, 'question': 334}
+Distribution of  dialogue act categories for user utterances:
+{'answer': 12.242686890574214,
+ 'other': 51.57096424702059,
+ 'question': 36.1863488624052}
+============ AGENT STATS ============
+Total Agent Utterances: 1005
+Average Agent Utterances Char Length: 131.6722338204593
+Average Agent Utterances Words Length: 23.600208768267223
+Total searches performed by agent: 213
+Total sources used by agent: 623
+Sources distribution used by agent:
+{'excel': 348, 'seriousEats': 21, 'stackExchangeCooking': 21, 'wikipedia': 55}
+Percentage of sources distribution used by agent:
+{'excel': 78.20224719101122,
+ 'seriousEats': 4.719101123595506,
+ 'stackExchangeCooking': 4.719101123595506,
+ 'wikipedia': 12.359550561797752}
+Distribution of information need subtype for agent utterances:
+{}
+Distribution of information need subtype for agent utterances:
+{}
+Distribution of dialogue act categories for agent utterances:
+{'answer': 518, 'other': 323, 'question': 164}
+Distribution of  dialogue act categories for agent utterances:
+{'answer': 51.542288557213936,
+ 'other': 32.13930348258707,
+ 'question': 16.318407960199004}
+++++++++++ passive CONVS STATS ++++++++++
+============ GENERAL STATS ============
+Total Conversations: 24
+Total Utterances: 989
+Average Utterances Char Length: 72.23879040667362
+Average Utterances Words Length: 13.381647549530761
+============ USER STATS ============
+Total User Utterances: 580
+Average User Utterances Char Length: 26.144827586206898
+Average User Utterances Words Length: 5.396551724137931
+Distribution of information need type for user utterances:
+{'amount': 10,
+ 'cooking_technique': 16,
+ 'equipment': 13,
+ 'ingredient': 40,
+ 'knowledge': 53,
+ 'meal': 7,
+ 'misc': 2,
+ 'preparation': 47,
+ 'recipe': 6,
+ 'temperature': 2,
+ 'time': 15}
+Distribution of information need type for user utterances:
+{'amount': 4.739336492890995,
+ 'cooking_technique': 7.5829383886255926,
+ 'equipment': 6.161137440758294,
+ 'ingredient': 18.95734597156398,
+ 'knowledge': 25.118483412322274,
+ 'meal': 3.3175355450236967,
+ 'misc': 0.9478672985781991,
+ 'preparation': 22.274881516587676,
+ 'recipe': 2.843601895734597,
+ 'temperature': 0.9478672985781991,
+ 'time': 7.109004739336493}
+Distribution of categories for user utterances averaged per conversation:
+{'amount': 19.747235387045812,
+ 'cooking_technique': 31.595576619273302,
+ 'equipment': 25.671406003159557,
+ 'ingredient': 78.98894154818325,
+ 'knowledge': 104.66034755134281,
+ 'meal': 13.82306477093207,
+ 'misc': 3.949447077409163,
+ 'preparation': 92.81200631911531,
+ 'recipe': 11.848341232227488,
+ 'temperature': 3.949447077409163,
+ 'time': 29.620853080568722}
+Distribution of information need subtype for user utterances:
+{'equipment': 4,
+ 'history': 21,
+ 'image': 7,
+ 'picture': 5,
+ 'recipe': 1,
+ 'science': 8,
+ 'step_importance': 19,
+ 'video': 14,
+ 'visual': 2}
+Distribution of information need subtype for user utterances:
+{'equipment': 4.938271604938271,
+ 'history': 25.925925925925924,
+ 'image': 8.641975308641975,
+ 'picture': 6.172839506172839,
+ 'recipe': 1.2345679012345678,
+ 'science': 9.876543209876543,
+ 'step_importance': 23.456790123456788,
+ 'video': 17.28395061728395,
+ 'visual': 2.4691358024691357}
+Distribution of dialogue act categories for user utterances:
+{'answer': 11, 'other': 353, 'question': 216}
+Distribution of  dialogue act categories for user utterances:
+{'answer': 1.896551724137931,
+ 'other': 60.862068965517246,
+ 'question': 37.24137931034483}
+============ AGENT STATS ============
+Total Agent Utterances: 409
+Average Agent Utterances Char Length: 142.778364116095
+Average Agent Utterances Words Length: 25.601583113456464
+Total searches performed by agent: 228
+Total sources used by agent: 248
+Sources distribution used by agent:
+{'excel': 96, 'seriousEats': 20, 'stackExchangeCooking': 23, 'wikipedia': 63}
+Percentage of sources distribution used by agent:
+{'excel': 47.524752475247524,
+ 'seriousEats': 9.900990099009901,
+ 'stackExchangeCooking': 11.386138613861387,
+ 'wikipedia': 31.18811881188119}
+Distribution of information need subtype for agent utterances:
+{}
+Distribution of information need subtype for agent utterances:
+{}
+Distribution of dialogue act categories for agent utterances:
+{'answer': 295, 'other': 85, 'question': 29}
+Distribution of  dialogue act categories for agent utterances:
+{'answer': 72.12713936430319,
+ 'other': 20.78239608801956,
+ 'question': 7.090464547677261}

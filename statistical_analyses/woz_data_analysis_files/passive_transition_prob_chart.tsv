@@ -1,0 +1,7 @@
+ 	agent_question	agent_answer	agent_other	user_question	user_answer	user_other
+agent_question	2	0	0	12	10	5
+agent_answer	5	89	21	61	1	117
+agent_other	1	1	62	12	0	309
+user_question	4	184	8	13	0	7
+user_answer	1	0	4	3	0	3
+user_other	16	21	296	115	0	196
