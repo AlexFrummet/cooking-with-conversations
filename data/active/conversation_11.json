@@ -1,0 +1,1662 @@
+{
+    "conversation_id": "5ea196f089935b04d2ee69d9",
+    "condition": "active",
+    "recipe_id": "158",
+    "recipe_title": "The Best Pesto alla Genovese (Classic Basil Pesto Sauce) Recipe",
+    "participant_gender": "female",
+    "participant_age": "45-54",
+    "keep_conversation": true,
+    "comments": "",
+    "conversation": [
+        {
+            "id": "-N6JjL16mrPlY30CM1cU",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "hello",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131589768
+        },
+        {
+            "id": "-N6JjTYMREI1s4ckc5rc",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JjL16mrPlY30CM1cU"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Hey there! Happy to have you on board for our masterclass :) Today you will be learning how to prepare The Best Pesto alla Genovese. Make sure you have all the ingredients and tools and feel free to ask questions. If you are ready to start cooking simply say next.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131624664
+        },
+        {
+            "id": "-N6JjkXWLwZxM2_rWoSt",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131698338
+        },
+        {
+            "id": "-N6JjlQWC5vCqexicbud",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131701987
+        },
+        {
+            "id": "-N6JjlXBzv2KTVSKvv0r",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 1\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131702413
+        },
+        {
+            "id": "-N6Jjs5pIT4CwXavByZn",
+            "interaction_type": "text",
+            "information_need_type": "equipment",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "what is a pestle? If I don't have one can I use something else?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131729334
+        },
+        {
+            "id": "-N6JjxvQ79LdPvKri3_a",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jjs5pIT4CwXavByZn"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "That's a really good question! Let me see what I can find",
+            "provenance": [],
+            "query": [
+                {
+                    "query": "pestle",
+                    "timestamp": 1657131738196
+                }
+            ],
+            "timestamp": 1657131753179
+        },
+        {
+            "id": "-N6Jk7Uk-U9fvWLMJXnB",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jjs5pIT4CwXavByZn"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Mortar and pestle are implements used since ancient times to prepare ingredients or substances by crushing and grinding them into a fine paste or powder in the kitchen, laboratory, and pharmacy. The \"mortar\"  is a bowl, typically made of hard wood, metal, ceramic, or hard stone, such as granite. The \"pestle\"  is a heavy and blunt club-shaped object.",
+            "provenance": [
+                {
+                    "page_id": "e3540a7ae548307a",
+                    "page_origin": "wikipedia",
+                    "page_title": "Mortar and pestle",
+                    "section_title": "Mortar and pestle",
+                    "paragraph_id": "8453e385cd9ea9c9",
+                    "paragraph_text": "Mortar and pestle are implements used since ancient times to prepare ingredients or substances by crushing and grinding them into a fine paste or powder in the kitchen, laboratory, and pharmacy. The \"mortar\" () is a bowl, typically made of hard wood, metal, ceramic, or hard stone, such as granite. The \"pestle\" (, ) is a heavy and blunt club-shaped object. The substance to be ground, which may be wet or dry, is placed in the mortar, where the pestle is pressed and rotated onto it until the desired texture is achieved.",
+                    "timestamp": 1657131770649
+                }
+            ],
+            "query": [],
+            "timestamp": 1657131796465
+        },
+        {
+            "id": "-N6JkJG9oQSxvNhEHJMn",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jjs5pIT4CwXavByZn"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "You could use a food processor instead",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131844683
+        },
+        {
+            "id": "-N6JkMU1S5dVerSaOL40",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JjxvQ79LdPvKri3_a",
+                "-N6Jk7Uk-U9fvWLMJXnB",
+                "-N6JkJG9oQSxvNhEHJMn"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Thank you! I will use my food processor",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131857859
+        },
+        {
+            "id": "-N6JkOE6sOBVoeeNZusV",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JkMU1S5dVerSaOL40"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "However, If you want to make the very best pesto, get yourself a mortar and pestle from the Mediterranean.",
+            "provenance": [
+                {
+                    "page_id": "befbdfc1840680d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make the Best Pesto",
+                    "section_title": "Does It Matter What Kind of Mortar and Pestle You Use for Pesto?",
+                    "paragraph_id": "e092d106ae75e999",
+                    "paragraph_text": "If you want to make the very best pesto, get yourself a mortar and pestle from the Mediterranean.",
+                    "timestamp": 1657131853071
+                }
+            ],
+            "query": [],
+            "timestamp": 1657131865031
+        },
+        {
+            "id": "-N6JkSNXTa1wcmJYt1re",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JkOE6sOBVoeeNZusV"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Okay! I'll have to do that next time. Thank you for the suggestion.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131882018
+        },
+        {
+            "id": "-N6JkdM8uwQGTpvMzIVA",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "I finished my garlic paste, what should I do next?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131931082
+        },
+        {
+            "id": "-N6Jkk87NGQcWs4QyN2V",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6JkdM8uwQGTpvMzIVA"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Your garlic paste should look like this",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131958856
+        },
+        {
+            "id": "-N6JkkUsKW3-FgUkLZ0W",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6JkdM8uwQGTpvMzIVA"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "https://www.seriouseats.com/thmb/cYo23EoIDBqb7p3vhFFRUeq-Xy8=/1500x1125/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__08__20180731-pesto-reshoot-vicky-wasik-1--d9531beee56443eab31ee8fad4a33ddb.jpg",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131960312
+        },
+        {
+            "id": "-N6JkmfD8E6W6aW6msSL",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JkdM8uwQGTpvMzIVA"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Next, you should add pine nuts and continue to crush with pestle, smashing and grinding them, until a sticky, only slightly chunky, beige paste forms.",
+            "provenance": [
+                {
+                    "page_id": "398b23d824dea22c",
+                    "page_origin": "excel",
+                    "page_title": "The Best Pesto alla Genovese (Classic Basil Pesto Sauce) Recipe",
+                    "section_title": "The Best Pesto alla Genovese (Classic Basil Pesto Sauce) Recipe",
+                    "paragraph_id": "1ddc3b59b4dd3e24",
+                    "paragraph_text": "Add pine nuts and continue to crush with pestle, smashing and grinding them, until a sticky, only slightly chunky, beige paste forms.",
+                    "timestamp": 1657131962320
+                }
+            ],
+            "query": [],
+            "timestamp": 1657131969232
+        },
+        {
+            "id": "-N6JkshWFC3IK8O2MUxT",
+            "interaction_type": "text",
+            "information_need_type": "amount",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "What measurement of pine nuts should I use?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657131993954
+        },
+        {
+            "id": "-N6JkvMxhDBz9U6eEf2W",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6JkshWFC3IK8O2MUxT"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "2 tablespoons (30g) pine nuts",
+            "provenance": [
+                {
+                    "page_id": "398b23d824dea22c",
+                    "page_origin": "excel",
+                    "page_title": "The Best Pesto alla Genovese (Classic Basil Pesto Sauce) Recipe",
+                    "section_title": "The Best Pesto alla Genovese (Classic Basil Pesto Sauce) Recipe",
+                    "paragraph_id": "1ddc3b59b4dd3e24",
+                    "paragraph_text": "2 tablespoons (30g) pine nuts",
+                    "timestamp": 1657132003154
+                }
+            ],
+            "query": [],
+            "timestamp": 1657132004862
+        },
+        {
+            "id": "-N6JkwnBh2jVROWtEjFo",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JkvMxhDBz9U6eEf2W"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "perfect.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132010700
+        },
+        {
+            "id": "-N6Jl6ij6K7imY-wXQqr",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "okay I have added the pine nuts. It is sticky, beige and slightly chunky",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132055471
+        },
+        {
+            "id": "-N6JlC3f_sg-a_eJEvLc",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6Jl6ij6K7imY-wXQqr"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "That's perfect! That's exactly what you should have!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132077355
+        },
+        {
+            "id": "-N6JlCLDyhwNlJQbh3VT",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6Jl6ij6K7imY-wXQqr"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "https://www.seriouseats.com/thmb/EMwhb-LEp7DOHK38zWcDlMLgHNU=/1500x1125/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__08__20180706-pesto-vicky-wasik-garlic-pinenuts-2ba4788353884b96ba08615e6dccf57a.jpg",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132078478
+        },
+        {
+            "id": "-N6JlGBC6eQutWn4xarl",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JlC3f_sg-a_eJEvLc",
+                "-N6JlCLDyhwNlJQbh3VT"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Looks great, mine looks just like this.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132094221
+        },
+        {
+            "id": "-N6JlMRXJVGbjFkl3Zv_",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N6JlGBC6eQutWn4xarl"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Perfect! Would you like to go to the next step?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132119842
+        },
+        {
+            "id": "-N6JlO6809tHn1v73JKW",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6JlMRXJVGbjFkl3Zv_"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "yes I would",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132126665
+        },
+        {
+            "id": "-N6JlONRn2MayfABI6b9",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132127773
+        },
+        {
+            "id": "-N6JlOTwaOVScfHGYYo_",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 2\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132128188
+        },
+        {
+            "id": "-N6Jlboa-i3cYCfoM9U1",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N6JlMRXJVGbjFkl3Zv_"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "What is the next step?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132186919
+        },
+        {
+            "id": "-N6JlcXe928y5SC2jqIs",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132189867
+        },
+        {
+            "id": "-N6JlccY2vCZqbz-nfNe",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 3\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132190244
+        },
+        {
+            "id": "-N6Jll-QlBXKCzuEha-m",
+            "interaction_type": "text",
+            "information_need_type": "ingredient",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Is it okay if I use pink salt in this?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132224539
+        },
+        {
+            "id": "-N6JlrlhvYoRpLNdv6Sj",
+            "interaction_type": "text",
+            "information_need_type": "ingredient",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Also if I run out of Basil leaves, can I use an alternative? If not, I live above a grocery store and can get them super quick.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132252269
+        },
+        {
+            "id": "-N6JlvuFHTbSgGhLlOTu",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jll-QlBXKCzuEha-m"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Let me see what I can find :)",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132269201
+        },
+        {
+            "id": "-N6Jm8K1KNG9QJmJw4NS",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jll-QlBXKCzuEha-m"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Yes you can use pink salt.  Himalayan Pink Salt is basically table salt with some added chemicals. It is merely dyed pink to help it blend better \n\nHowever, Himalayan Pink Salt is not processed like table salt. Himalayan contains additional trace minerals.",
+            "provenance": [
+                {
+                    "page_id": "1a1a4b5b4ad7c2a8",
+                    "page_origin": "stackExchangeCooking",
+                    "page_title": "Is Himalayan pink salt the same as the pink salt used for curing?",
+                    "section_title": "Answer 2",
+                    "paragraph_id": "7bf17af998350721",
+                    "paragraph_text": "I have been using Himalayan Pink Salt for years...it is the only salt I use. \n\nCuring salt is basically table salt with some added chemicals. It is merely dyed pink to help it blend better with meat.\n\nHimalayan Pink Salt is not processed like table salt. Himalayan contains additional trace minerals. \n\nSalt with trace minerals always has a non-white color. Celtic Sea Salt, for example (which is really good salt) has a brownish sandy color. Pink Himalayan salt is a sort of sandy rose or pink color. All the truly natural full-spectrum salts are sandy, pink, or brownish in color.\n",
+                    "timestamp": 1657132286557
+                }
+            ],
+            "query": [
+                {
+                    "query": "pink salt",
+                    "timestamp": 1657132235522
+                }
+            ],
+            "timestamp": 1657132324163
+        },
+        {
+            "id": "-N6JmFIxw39crgiBBeZM",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JlvuFHTbSgGhLlOTu",
+                "-N6Jm8K1KNG9QJmJw4NS"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Thank you for telling me that, I had no idea that it had dye in it!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132352766
+        },
+        {
+            "id": "-N6JmOD2dXHL6jOoyvgu",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JlrlhvYoRpLNdv6Sj"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "You need basil. Unless you're from Liguria itself, you probably don't have access to the prized basil of that region. If you happen to grow your own, lucky you. If you have access to a good farmers market that carries beautiful tufts of fragrant basil at the height of summer, definitely go for it. If you have to settle for supermarket clamshells of hydroponic herb, well, then, that's what it's going to be. Basically, get the best fresh basil you can, and that's all there is to it.",
+            "provenance": [
+                {
+                    "page_id": "befbdfc1840680d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make the Best Pesto",
+                    "section_title": "A Note About the Basil",
+                    "paragraph_id": "736ccb9344303758",
+                    "paragraph_text": "Unless you're reading this from Liguria itself, you probably don't have access to the prized basil of that region.",
+                    "timestamp": 1657132351226
+                },
+                {
+                    "page_id": "befbdfc1840680d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make the Best Pesto",
+                    "section_title": "A Note About the Basil",
+                    "paragraph_id": "c2d5f975008c66bf",
+                    "paragraph_text": "If you happen to grow your own, lucky you.",
+                    "timestamp": 1657132378457
+                },
+                {
+                    "page_id": "befbdfc1840680d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make the Best Pesto",
+                    "section_title": "A Note About the Basil",
+                    "paragraph_id": "c2d5f975008c66bf",
+                    "paragraph_text": "If you have access to a good farmers market that carries beautiful tufts of fragrant basil at the height of summer, definitely go for it.",
+                    "timestamp": 1657132380824
+                },
+                {
+                    "page_id": "befbdfc1840680d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make the Best Pesto",
+                    "section_title": "A Note About the Basil",
+                    "paragraph_id": "c2d5f975008c66bf",
+                    "paragraph_text": "If you have to settle for supermarket clamshells of hydroponic herb, well, then, that's what it's going to be.",
+                    "timestamp": 1657132384108
+                },
+                {
+                    "page_id": "befbdfc1840680d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make the Best Pesto",
+                    "section_title": "A Note About the Basil",
+                    "paragraph_id": "c2d5f975008c66bf",
+                    "paragraph_text": "Basically, get the best fresh basil you can, and that's all there is to it.",
+                    "timestamp": 1657132387191
+                }
+            ],
+            "query": [],
+            "timestamp": 1657132389252
+        },
+        {
+            "id": "-N6JmYoI4sXHpT-MKJxF",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JmOD2dXHL6jOoyvgu"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Okay, my neighbor has a Basil plant. I'm going to go next door real quick and see if I can borrow some.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132432659
+        },
+        {
+            "id": "-N6Jmc3E_uEcMelqkLw7",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JmOD2dXHL6jOoyvgu"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Also you are a little sassy and I like it.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132450064
+        },
+        {
+            "id": "-N6Jmi7qoYOyv5UCpIuq",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JmOD2dXHL6jOoyvgu"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Success! My neighbor gave me some Basil off of their plant.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132474935
+        },
+        {
+            "id": "-N6JmmiV_AGyaBEsH5ea",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JmOD2dXHL6jOoyvgu"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "I now have all the Basil I need. I can proceed and would like to find out what happens next.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132493728
+        },
+        {
+            "id": "-N6JmptOYpmHBpRWYX3c",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JmYoI4sXHpT-MKJxF",
+                "-N6Jmc3E_uEcMelqkLw7",
+                "-N6Jmi7qoYOyv5UCpIuq",
+                "-N6JmmiV_AGyaBEsH5ea"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "that's perfect! Let's go to the next step!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132506714
+        },
+        {
+            "id": "-N6Jmq6fykCr21xGZ5rI",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132507628
+        },
+        {
+            "id": "-N6JmqC3umpZHHCCUTr2",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 4\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132507973
+        },
+        {
+            "id": "-N6Jn-nSKwHT9vv5eoph",
+            "interaction_type": "text",
+            "information_need_type": "ingredient",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "So it says to add both cheeses, can you remind me what cheeses I am supposed to use?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132551390
+        },
+        {
+            "id": "-N6Jn55kJ83mmWIWcL_w",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N6Jn-nSKwHT9vv5eoph"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "What Cheese Should Be Used in Pesto Sauce you ask? That's an excellent question!",
+            "provenance": [
+                {
+                    "page_id": "398b23d824dea22c",
+                    "page_origin": "excel",
+                    "page_title": "The Best Pesto alla Genovese (Classic Basil Pesto Sauce) Recipe",
+                    "section_title": "The Best Pesto alla Genovese (Classic Basil Pesto Sauce) Recipe",
+                    "paragraph_id": "1ddc3b59b4dd3e24",
+                    "paragraph_text": "What Cheese Should Be Used in Pesto Sauce?",
+                    "timestamp": 1657132557726
+                }
+            ],
+            "query": [],
+            "timestamp": 1657132573104
+        },
+        {
+            "id": "-N6Jn6Uuq121wGvVBTZ7",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jn-nSKwHT9vv5eoph"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Historically, the cheeses of true Ligurian pesto were Parmigiano-Reggiano and Pecorino Sardo (or Fiore Sardo), a Sardinian sheep's-milk cheese.",
+            "provenance": [
+                {
+                    "page_id": "befbdfc1840680d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make the Best Pesto",
+                    "section_title": "What Cheese Should Be Used in Pesto Sauce?",
+                    "paragraph_id": "0600c73af94d8b73",
+                    "paragraph_text": "Historically, the cheeses of true Ligurian pesto were Parmigiano-Reggiano and Pecorino Sardo (or Fiore Sardo), a Sardinian sheep's-milk cheese.",
+                    "timestamp": 1657132575409
+                }
+            ],
+            "query": [],
+            "timestamp": 1657132578811
+        },
+        {
+            "id": "-N6Jn99lGv5sFFKgimMi",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jn-nSKwHT9vv5eoph"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "When pesto first became popular in the United States, however, Fiore Sardo was pretty much unavailable here, so recipe writers substituted the next best available thing: Pecorino Romano.",
+            "provenance": [
+                {
+                    "page_id": "befbdfc1840680d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make the Best Pesto",
+                    "section_title": "What Cheese Should Be Used in Pesto Sauce?",
+                    "paragraph_id": "0600c73af94d8b73",
+                    "paragraph_text": "When pesto first became popular in the United States, however, Fiore Sardo was pretty much unavailable here, so recipe writers substituted the next best available thing: Pecorino Romano.",
+                    "timestamp": 1657132588424
+                }
+            ],
+            "query": [],
+            "timestamp": 1657132589745
+        },
+        {
+            "id": "-N6Jn9twS-42AwDRJYqS",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jn-nSKwHT9vv5eoph"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "But Pecorino Romano is saltier, sharper, and tangier than Fiore Sardo.",
+            "provenance": [
+                {
+                    "page_id": "befbdfc1840680d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make the Best Pesto",
+                    "section_title": "What Cheese Should Be Used in Pesto Sauce?",
+                    "paragraph_id": "0600c73af94d8b73",
+                    "paragraph_text": "But Pecorino Romano is saltier, sharper, and tangier than Fiore Sardo.",
+                    "timestamp": 1657132590456
+                }
+            ],
+            "query": [],
+            "timestamp": 1657132592764
+        },
+        {
+            "id": "-N6JnCsy8p7I76D5JPOy",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6Jn-nSKwHT9vv5eoph"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "So my suggestion is",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132604990
+        },
+        {
+            "id": "-N6JnHaX-JNCJ-9vohv4",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6Jn-nSKwHT9vv5eoph"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Add  equal parts of Parmigiano-Reggiano and Pecorino Fiore Sardo",
+            "provenance": [
+                {
+                    "page_id": "befbdfc1840680d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make the Best Pesto",
+                    "section_title": "What Cheese Should Be Used in Pesto Sauce?",
+                    "paragraph_id": "addf86024871e8a4",
+                    "paragraph_text": "The first had equal parts Parmigiano-Reggiano and Pecorino Fiore Sardo, which tends to be the ratio of those two cheeses called for by most recipes I looked at.",
+                    "timestamp": 1657132608893
+                }
+            ],
+            "query": [],
+            "timestamp": 1657132624291
+        },
+        {
+            "id": "-N6JnNtI1ENkRxm2TbPq",
+            "interaction_type": "text",
+            "information_need_type": "amount",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N6Jn55kJ83mmWIWcL_w",
+                "-N6Jn6Uuq121wGvVBTZ7",
+                "-N6Jn99lGv5sFFKgimMi",
+                "-N6Jn9twS-42AwDRJYqS",
+                "-N6JnCsy8p7I76D5JPOy",
+                "-N6JnHaX-JNCJ-9vohv4"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "perfect I will do that. Can I go a little easy on the oil? I'm trying to stay healthy",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132650068
+        },
+        {
+            "id": "-N6JnbDmkrR-ioRRawLi",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6JnNtI1ENkRxm2TbPq"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Yes you can. But I'd highly recommend you use a decent, somewhat mild olive oil, if you feel like using an even higher-quality, not-too-spicy oil, whether Ligurian or not, it may be subtly better.",
+            "provenance": [
+                {
+                    "page_id": "befbdfc1840680d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make the Best Pesto",
+                    "section_title": "What Is the Best Olive Oil for Pesto Sauce?",
+                    "paragraph_id": "87f23f4b0e664762",
+                    "paragraph_text": "But as long as you're using a decent, somewhat mild olive oil, your pesto is going to be good; if you feel like using an even higher-quality, not-too-spicy oil, whether Ligurian or not, it may be subtly better.",
+                    "timestamp": 1657132687794
+                }
+            ],
+            "query": [],
+            "timestamp": 1657132708786
+        },
+        {
+            "id": "-N6JndnKxglI5vM6AV1W",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JnbDmkrR-ioRRawLi"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Perfect",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132719317
+        },
+        {
+            "id": "-N6Jng3p2wWLD0T33kIF",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "history",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "also can you tell me more about when Pesto was invented?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132728629
+        },
+        {
+            "id": "-N6JnkoQKN8CuU__DqYn",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jng3p2wWLD0T33kIF"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "That's an amazing question! Let me see what I can find!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132748060
+        },
+        {
+            "id": "-N6JnpXDwrazXz-Fo_gq",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "history",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "I would love to see a short video on the history of Pesto if you have one.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132767374
+        },
+        {
+            "id": "-N6Jo-3BrjsTvep78TUB",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jng3p2wWLD0T33kIF"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Pesto or to refer to the original dish pesto alla genovese , is a sauce originating in Genoa, the capital city of Liguria, Italy.  Pesto is thought to have two predecessors in ancient times, going back as far as the Roman age. The ancient Romans used to eat a similar paste called moretum, which was made by crushing garlic, salt, cheese, herbs, olive oil and vinegar together. The use of this paste in the Roman cuisine is mentioned in the \"Appendix Vergiliana\", an ancient collection of poems where the author dwells on the details about the preparation of \"moretum\". During the Middle Ages, a popular sauce in the Genoan cuisine was \"agliata\", which was basically a mash of garlic and walnuts, as garlic was a staple in the nutrition of Ligurians, especially for the seafarers. The introduction of basil, the main ingredient of modern pesto, occurred in more recent times and is first documented only in the mid-19th century, when gastronomist Giovanni Battista Ratto published his book \"La Cuciniera Genovese\" in 1863:",
+            "provenance": [
+                {
+                    "page_id": "c1423facf62cd38d",
+                    "page_origin": "wikipedia",
+                    "page_title": "Pesto",
+                    "section_title": "Pesto",
+                    "paragraph_id": "81e5c345ec6a8ba3",
+                    "paragraph_text": "Pesto (, ), or to refer to the original dish pesto alla genovese (), is a sauce originating in Genoa, the capital city of Liguria, Italy. It traditionally consists of crushed garlic, European pine nuts, coarse salt, basil leaves, hard cheese such as Parmigiano-Reggiano (also known as Parmesan cheese) or Pecorino Sardo (cheese made from sheep's milk), all blended with olive oil.",
+                    "timestamp": 1657132768331
+                },
+                {
+                    "page_id": "c1423facf62cd38d",
+                    "page_origin": "wikipedia",
+                    "page_title": "Pesto",
+                    "section_title": "History.",
+                    "paragraph_id": "0539bd43ea8a029f",
+                    "paragraph_text": "Pesto is thought to have two predecessors in ancient times, going back as far as the Roman age. The ancient Romans used to eat a similar paste called moretum, which was made by crushing garlic, salt, cheese, herbs, olive oil and vinegar together. The use of this paste in the Roman cuisine is mentioned in the \"Appendix Vergiliana\", an ancient collection of poems where the author dwells on the details about the preparation of \"moretum\". During the Middle Ages, a popular sauce in the Genoan cuisine was \"agliata\", which was basically a mash of garlic and walnuts, as garlic was a staple in the nutrition of Ligurians, especially for the seafarers.",
+                    "timestamp": 1657132799926
+                },
+                {
+                    "page_id": "c1423facf62cd38d",
+                    "page_origin": "wikipedia",
+                    "page_title": "Pesto",
+                    "section_title": "History.",
+                    "paragraph_id": "6ef02826c8f3f9cf",
+                    "paragraph_text": "The introduction of basil, the main ingredient of modern pesto, occurred in more recent times and is first documented only in the mid-19th century, when gastronomist Giovanni Battista Ratto published his book \"La Cuciniera Genovese\" in 1863:",
+                    "timestamp": 1657132804243
+                }
+            ],
+            "query": [
+                {
+                    "query": "pesto",
+                    "timestamp": 1657132753159
+                }
+            ],
+            "timestamp": 1657132810508
+        },
+        {
+            "id": "-N6JoBj_-ltAn29XqbTz",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N6JnpXDwrazXz-Fo_gq"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "I do not have a video on the history of pesto! However, I have a video on how to make it! Would you like to watch that instead (it's 6 minutes long)?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132862438
+        },
+        {
+            "id": "-N6JoEiytRsZSNU8ORWK",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jo-3BrjsTvep78TUB"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "that is so interesting. thank you!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132874687
+        },
+        {
+            "id": "-N6JoH4whU4-HOQZJ6KG",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JoBj_-ltAn29XqbTz"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "I think I am okay if we don't watch the video",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132884348
+        },
+        {
+            "id": "-N6JoMmuvC551UrDyu3a",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Sure! Do you have any other question on this step?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132907706
+        },
+        {
+            "id": "-N6JoPC23fXYyYCECZcx",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "science",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N6JoMmuvC551UrDyu3a"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "also can you tell me what emulsified means?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132917571
+        },
+        {
+            "id": "-N6JoYzO8F7LDy7Z8aTF",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6JoPC23fXYyYCECZcx"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "An emulsion is a mixture of two or more liquids that are normally immiscible (unmixable or unblendable). Emulsions are part of a more general class of two-phase systems of matter called colloids. Although the terms \"colloid\" and \"emulsion\" are sometimes used interchangeably, \"emulsion\" should be used when both phases, dispersed and continuous, are liquids. In an emulsion, one liquid (the dispersed phase) is dispersed in the other (the continuous phase). Examples of emulsions include vinaigrettes, homogenized milk, and some cutting fluids for metal working.",
+            "provenance": [
+                {
+                    "page_id": "1453cd90528ae9d4",
+                    "page_origin": "wikipedia",
+                    "page_title": "Emulsion",
+                    "section_title": "Emulsion",
+                    "paragraph_id": "24190b038e7daa12",
+                    "paragraph_text": "An emulsion is a mixture of two or more liquids that are normally immiscible (unmixable or unblendable). Emulsions are part of a more general class of two-phase systems of matter called colloids. Although the terms \"colloid\" and \"emulsion\" are sometimes used interchangeably, \"emulsion\" should be used when both phases, dispersed and continuous, are liquids. In an emulsion, one liquid (the dispersed phase) is dispersed in the other (the continuous phase). Examples of emulsions include vinaigrettes, homogenized milk, and some cutting fluids for metal working. ",
+                    "timestamp": 1657132939583
+                }
+            ],
+            "query": [
+                {
+                    "query": "emulsified",
+                    "timestamp": 1657132924353
+                }
+            ],
+            "timestamp": 1657132957657
+        },
+        {
+            "id": "-N6JohxKRVCPjp7ihC0e",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JoYzO8F7LDy7Z8aTF"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "thank you for that! So I have added my cheeses and my oils. It is looking pretty good",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657132998485
+        },
+        {
+            "id": "-N6JoplzoRbqqIEWt5TF",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JohxKRVCPjp7ihC0e"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "That's amazing! You are almost done! One step to go :)",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133030527
+        },
+        {
+            "id": "-N6JorJfg_-bM-5n3BKe",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JoplzoRbqqIEWt5TF"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "great.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133036843
+        },
+        {
+            "id": "-N6Jp-Ex-GPTFu3SKkUt",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Would you like to go to the next step?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133073405
+        },
+        {
+            "id": "-N6Jp0rL44nf8QkhKrdr",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N6Jp-Ex-GPTFu3SKkUt"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "yes I would thank you",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133080022
+        },
+        {
+            "id": "-N6Jp1Pu5JgiU_WhAYsm",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133082298
+        },
+        {
+            "id": "-N6Jp1VPa3LVW2uS2PXH",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 5\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133082651
+        },
+        {
+            "id": "-N6Jp7OvxqbDakS40FRZ",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "amazing. I think I will refrigerate it for later.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133106812
+        },
+        {
+            "id": "-N6Jp9lEdVmLT1CMrY-O",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "I think I actually would like to see the video",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133116495
+        },
+        {
+            "id": "-N6JpBSDdc7RXKRT-yIv",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6Jp7OvxqbDakS40FRZ",
+                "-N6Jp9lEdVmLT1CMrY-O"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Sure!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133123407
+        },
+        {
+            "id": "-N6JpDipFY_tfGo1x5U0",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6Jp7OvxqbDakS40FRZ",
+                "-N6Jp9lEdVmLT1CMrY-O"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "https://cdn.jwplayer.com/v2/media/YdWNzjnJ/poster.jpg<video_separator>https://cdn.jwplayer.com/videos/YdWNzjnJ.mp4",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133132726
+        },
+        {
+            "id": "-N6Jq74J894TAYiT3kKM",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6JpBSDdc7RXKRT-yIv",
+                "-N6JpDipFY_tfGo1x5U0"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Thank you so much for sharing that. If it is okay, I won't watch the whole thing.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133367636
+        },
+        {
+            "id": "-N6Jq9hL62wVzc9QAh5c",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N6Jq74J894TAYiT3kKM"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Sure there is no need!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133378391
+        },
+        {
+            "id": "-N6JqDLFWvYxXc7p3ksp",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "You are done! Congratulations! You can enjoy your pesto now :)",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1657133393297
+        }
+    ]
+}

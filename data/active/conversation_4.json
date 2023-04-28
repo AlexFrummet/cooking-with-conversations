@@ -1,0 +1,1760 @@
+{
+    "conversation_id": "5ed91d3f31d9c60a8ac27018",
+    "condition": "active",
+    "recipe_id": "419",
+    "recipe_title": "Easy Old-Fashioned Apple Pie Recipe | BraveTart",
+    "participant_gender": "non-binary",
+    "participant_age": "18-24",
+    "keep_conversation": true,
+    "comments": "The system's action messages didn't work so I do not think this conversation should be kept",
+    "conversation": [
+        {
+            "id": "-N5trWgDjCTviC_N8CA5",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Hey there! Happy to have you onboard for our masterclass :)\u00a0\nToday you will be learning how to prepare Apple Pie.\nMake sure you have all the ingredients and tools and feel free to ask questions. If you are ready to start cooking simply say next.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656680749839
+        },
+        {
+            "id": "-N5tr_CTMSVhpNqszoXZ",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5trWgDjCTviC_N8CA5"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656680764255
+        },
+        {
+            "id": "-N5trmn1bVU1FBcPFz18",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Hi! So I will help you baking a delicious apple pie. Do you have a question for step 1?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656680819906
+        },
+        {
+            "id": "-N5trsBlSSG3JFTZfGQO",
+            "interaction_type": "text",
+            "information_need_type": "preparation",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5trmn1bVU1FBcPFz18"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "What is step 1?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656680842033
+        },
+        {
+            "id": "-N5trusxV16vFDwUFzCc",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656680853053
+        },
+        {
+            "id": "-N5ts4lH0mn38GbiG-9C",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5trsBlSSG3JFTZfGQO"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "I mean step 1 of the recipe :)",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656680897618
+        },
+        {
+            "id": "-N5tsChEGZmQfeoCcupi",
+            "interaction_type": "text",
+            "information_need_type": "preparation",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5ts4lH0mn38GbiG-9C"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "What is the first step I should take? I don't see it",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656680930127
+        },
+        {
+            "id": "-N5tsDWo7I7rDT7lQbu4",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656680933493
+        },
+        {
+            "id": "-N5tsRkfNBFzR7DfuSOC",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5tsChEGZmQfeoCcupi"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Oh sorry that shouldn't be like that. So this is step 1:",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656680991787
+        },
+        {
+            "id": "-N5tsSTjvB_z-98T7mj6",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5tsChEGZmQfeoCcupi"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "For the Filling: Combine brown sugar, cinnamon, salt, ginger, nutmeg, and cloves in a gallon-sized zip-top bag (do not add tapioca at this time). Peel, quarter, and core the apples, then slice into 1/2-inch wedges; significant deviation can change the consistency of the filling.",
+            "provenance": [
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "For the Filling: Combine brown sugar, cinnamon, salt, ginger, nutmeg, and cloves in a gallon-sized zip-top bag (do not add tapioca at this time).",
+                    "timestamp": 1656680992846
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Peel, quarter, and core the apples, then slice into 1/2-inch wedges; significant deviation can change the consistency of the filling.",
+                    "timestamp": 1656680993782
+                }
+            ],
+            "query": [],
+            "timestamp": 1656680994736
+        },
+        {
+            "id": "-N5tsUtT51o8z6UlZSA3",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681004638
+        },
+        {
+            "id": "-N5tstWjxmQOd4FvgdW-",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681109616
+        },
+        {
+            "id": "-N5tt0qJ5tsYGYdWg4em",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5tstWjxmQOd4FvgdW-"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Before we skip to the next step. Why do you think apples should be put in a gallon-sized zip-top bag?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681143701
+        },
+        {
+            "id": "-N5ttBYGGSdOQRblyApR",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "equipment",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5tt0qJ5tsYGYdWg4em"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "I think because it's an easy way to mix the ingredients without making a mess?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681187537
+        },
+        {
+            "id": "-N5ttVMvDeyq0Kz8Oa6X",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5ttBYGGSdOQRblyApR"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "You're right! That's one important aspect. But there are also others:",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681268731
+        },
+        {
+            "id": "-N5ttb5GXlF051usdJPg",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5ttBYGGSdOQRblyApR"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Not only does this minimize cleanup down the road, it limits the fruit's exposure to air, meaning less oxidation, and it lets me toss everything together without making a mess. ( A five-quart-capacity bowl will do the same thing, but that will also increase the fruit's exposure to air.)",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "186573c6bd24bc8f",
+                    "paragraph_text": "Not only does this minimize cleanup down the road, it limits the fruit's exposure to air, meaning less oxidation, and it lets me toss everything together without making a mess. (",
+                    "timestamp": 1656681280804
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "186573c6bd24bc8f",
+                    "paragraph_text": "A five-quart-capacity bowl will do the same thing, but that will also increase the fruit's exposure to air.)",
+                    "timestamp": 1656681285644
+                }
+            ],
+            "query": [],
+            "timestamp": 1656681296273
+        },
+        {
+            "id": "-N5ttfPOj1jTfcZgtebx",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5ttVMvDeyq0Kz8Oa6X",
+                "-N5ttb5GXlF051usdJPg"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "I see!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681313945
+        },
+        {
+            "id": "-N5ttfsm_P9N8YsdOPkH",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "It should look like this then:",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681315891
+        },
+        {
+            "id": "-N5ttgnBBoyWl0BgoBx1",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5ttfPOj1jTfcZgtebx"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "https://www.seriouseats.com/thmb/pT3dUgIe5z-IdBry4GwY7jSzLMA=/1500x1125/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2017__09__20170730-bravetart-apple-pie-vicky-wasik_collage-1-52533cee10314c3e95d09f8bd09925cb.jpg",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681319628
+        },
+        {
+            "id": "-N5ttm32j9regMeCVvPM",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5ttfPOj1jTfcZgtebx"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "This is how you do it. And the result of this procedure is the following:",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681341187
+        },
+        {
+            "id": "-N5ttmCrFspxjDyZlHh-",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5ttfPOj1jTfcZgtebx"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "https://www.seriouseats.com/thmb/6bJUb2Ie5xzhKxlHrZRnYGZSM50=/1500x1125/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2017__09__20170730-bravetart-apple-pie-vicky-wasik-6-34d10f7c606748b7943f0d1629d3d632.jpg",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681341815
+        },
+        {
+            "id": "-N5ttnyfg9bxg0e8BD35",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5ttfPOj1jTfcZgtebx"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "The liquid you see after macerating the apples is a syrup composed primarily of brown sugar dissolved by a small amount of tart apple juice.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "7670727f8d036d0d",
+                    "paragraph_text": "The liquid you see after macerating the apples is a syrup composed primarily of brown sugar dissolved by a small amount of tart apple juice. (",
+                    "timestamp": 1656681346682
+                }
+            ],
+            "query": [],
+            "timestamp": 1656681349035
+        },
+        {
+            "id": "-N5ttsZ1mZ1OCCNZYh9t",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5ttfPOj1jTfcZgtebx"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "However, let's go on to the next step now",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681367810
+        },
+        {
+            "id": "-N5ttwbbgeGYxrNghA_m",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5ttfPOj1jTfcZgtebx"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "This is step 2:  Measure 50 ounces sliced apples (11 rounded cups; 1.45kg) into the bag, seal tightly, and tumble until roughly coated. Macerate at room temperature, flipping the bag occasionally to distribute the syrup, until the apples have lost a third of their volume, at least 3 hours. The apples can be held up to 8 hours in the fridge.",
+            "provenance": [
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Measure 50 ounces sliced apples (11 rounded cups; 1.45kg) into the bag, seal tightly, and tumble until roughly coated.",
+                    "timestamp": 1656681376954
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Macerate at room temperature, flipping the bag occasionally to distribute the syrup, until the apples have lost a third of their volume, at least 3 hours.",
+                    "timestamp": 1656681378202
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "The apples can be held up to 8 hours in the fridge.",
+                    "timestamp": 1656681380082
+                }
+            ],
+            "query": [],
+            "timestamp": 1656681384423
+        },
+        {
+            "id": "-N5tuRQXdyPqKninxMEJ",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "science",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5ttsZ1mZ1OCCNZYh9t",
+                "-N5ttwbbgeGYxrNghA_m"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "What does macerate mean?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681514722
+        },
+        {
+            "id": "-N5tuktiSR2kSVton3xA",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5tuRQXdyPqKninxMEJ"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Great question! So maceration is the \"magic\" (really science) of applied osmotic pressure. The sugar mixture will draw fluid out of the fruit (indeed, many maceration steps are done by mixing the dry sugar with the fruit, rather than by placing the fruit in sugar-water - there is soon fluid, and the osmotic pressure is considerably higher since the concentration of sugar is higher. If water is needed, it would be added after maceration, in those recipes.)",
+            "provenance": [
+                {
+                    "page_id": "47a827b3b3a683d7",
+                    "page_origin": "stackExchangeCooking",
+                    "page_title": "Goal of macerating fruit for marmalade",
+                    "section_title": "Answer 3",
+                    "paragraph_id": "7ab4b9c314f0d8c1",
+                    "paragraph_text": "Maceration is the \"magic\" (really science) of applied osmotic pressure. The sugar mixture will draw fluid out of the fruit (indeed, many maceration steps are done by mixing the dry sugar with the fruit, rather than by placing the fruit in sugar-water - there is soon fluid, and the osmotic pressure is considerably higher since the concentration of sugar is higher. If water is needed, it would be added after maceration, in those recipes.)\n",
+                    "timestamp": 1656681577447
+                }
+            ],
+            "query": [
+                {
+                    "query": "macerate",
+                    "timestamp": 1656681542002
+                },
+                {
+                    "query": "maceration",
+                    "timestamp": 1656681562537
+                }
+            ],
+            "timestamp": 1656681598574
+        },
+        {
+            "id": "-N5tutRUv_7Md1cjyTHJ",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5tuRQXdyPqKninxMEJ"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "So as you can read from that definition, it is essentially the step we performed when putting the apples in the bag!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681633567
+        },
+        {
+            "id": "-N5tuvXA3j-hSHs5icQW",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5tuktiSR2kSVton3xA",
+                "-N5tutRUv_7Md1cjyTHJ"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Thanks!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681642123
+        },
+        {
+            "id": "-N5tv-16onM-S9mvmIPe",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681660552
+        },
+        {
+            "id": "-N5tv9mgGFYRtbawQGQA",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "So speaking of apples. Which kind of apple do you pick when baking an apple pie?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681704621
+        },
+        {
+            "id": "-N5tvMkP3_Hmmc1F53-n",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5tv9mgGFYRtbawQGQA"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "I have golden delicious apples today",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681757722
+        },
+        {
+            "id": "-N5tvUAIXejEm6tl2ACZ",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5tvMkP3_Hmmc1F53-n"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Oh that's actually a great choice! Why did you pick Golden Delicious?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681788115
+        },
+        {
+            "id": "-N5tv_AWsHfdJrheLuTF",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5tvUAIXejEm6tl2ACZ"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "They were recommended in the recipe directions, and they",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681812705
+        },
+        {
+            "id": "-N5tvakbVb7EerO0FG3F",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5tvUAIXejEm6tl2ACZ"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "*they're just ones that I like",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681819176
+        },
+        {
+            "id": "-N5tvmNIj7XU2Qg86L4L",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5tv_AWsHfdJrheLuTF",
+                "-N5tvakbVb7EerO0FG3F"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Alright, I see. They are, indeed, very delicious. Another reason is that they're high in pectin and hold their shape nicely in the oven, which keeps the filling thick, and they're tart enough to offset the sweetness of embellishments, like a scoop of ice cream or a dollop of chantilly.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "c918e39f181e525f",
+                    "paragraph_text": "They're high in pectin and hold their shape nicely in the oven, which keeps the filling thick, and they're tart enough to offset the sweetness of embellishments, like a scoop of ice cream or a dollop of chantilly.",
+                    "timestamp": 1656681856604
+                }
+            ],
+            "query": [],
+            "timestamp": 1656681866771
+        },
+        {
+            "id": "-N5tvrl_aFxRI5NGydh3",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5tv_AWsHfdJrheLuTF",
+                "-N5tvakbVb7EerO0FG3F"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "So you could also pick Braeburn or Granny Smith for this purpose.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656681888869
+        },
+        {
+            "id": "-N5twHxhPHOfNraghQrP",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Alright let's go on with step 3:   Add tapioca starch to the apples, reseal, and toss to combine. Pour apple filling into the prepared pie shell, nestling the slices into a flattish mound. Stand top crust a few seconds at room temperature until pliable, then drape on top. Pinch to seal both crusts together and trim to 3/4 inch. Tuck the dough under itself, so the pie looks something like a bonnet, or crimp into loose waves (the crust will not hold a tightly crimped design). Refrigerate the pie until cold and firm, at least 30 minutes or up to 1 hour. Meanwhile, adjust oven rack to lower-middle position and preheat to 400\u00b0F (200\u00b0C).",
+            "provenance": [
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Add tapioca starch to the apples, reseal, and toss to combine.",
+                    "timestamp": 1656681991461
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Pour apple filling into the prepared pie shell, nestling the slices into a flattish mound.",
+                    "timestamp": 1656681993948
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Stand top crust a few seconds at room temperature until pliable, then drape on top.",
+                    "timestamp": 1656681994548
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Pinch to seal both crusts together and trim to 3/4 inch.",
+                    "timestamp": 1656681994972
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Tuck the dough under itself, so the pie looks something like a bonnet, or crimp into loose waves (the crust will not hold a tightly crimped design).",
+                    "timestamp": 1656681995572
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Refrigerate the pie until cold and firm, at least 30 minutes or up to 1 hour.",
+                    "timestamp": 1656681995963
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Meanwhile, adjust oven rack to lower-middle position and preheat to 400\u00b0F (200\u00b0C).",
+                    "timestamp": 1656681996533
+                }
+            ],
+            "query": [],
+            "timestamp": 1656682000237
+        },
+        {
+            "id": "-N5twVN9EgbzDHvqGl4l",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "science",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5twHxhPHOfNraghQrP"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "What is the purpose of the tapioca starch?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682055179
+        },
+        {
+            "id": "-N5twzZd1FGssW9Iialr",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5twVN9EgbzDHvqGl4l"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Good question:  The liquid you see after macerating the apples is a syrup composed primarily of brown sugar dissolved by a small amount of tart apple juice. ( The mixture weighs little more than the brown sugar added in step one.) This is more or less the same thing that happens with my fresh lemon syrup, in which dry lemon rinds are tossed with seven ounces of sugar to yield a scant eight ounces of syrup after a few hours. That lack of moisture means there's no need to spend time and energy cooking the liquid down to concentrate the \"juices,\" as the liquid is already quite concentrated in terms of both flavor and water content. Further cooking will only candy the syrup and bring out the funky flavors of caramelized fructose, while the overall water content of the fruit is easily managed through a touch of tapioca starch.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "7670727f8d036d0d",
+                    "paragraph_text": "The liquid you see after macerating the apples is a syrup composed primarily of brown sugar dissolved by a small amount of tart apple juice. (",
+                    "timestamp": 1656682142169
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "7670727f8d036d0d",
+                    "paragraph_text": "The mixture weighs little more than the brown sugar added in step one.)",
+                    "timestamp": 1656682144041
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "7670727f8d036d0d",
+                    "paragraph_text": "This is more or less the same thing that happens with my fresh lemon syrup, in which dry lemon rinds are tossed with seven ounces of sugar to yield a scant eight ounces of syrup after a few hours.",
+                    "timestamp": 1656682147842
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "dab0761e6b0bf116",
+                    "paragraph_text": "That lack of moisture means there's no need to spend time and energy cooking the liquid down to concentrate the \"juices,\" as the liquid is already quite concentrated in terms of both flavor and water content.",
+                    "timestamp": 1656682149619
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "dab0761e6b0bf116",
+                    "paragraph_text": "Further cooking will only candy the syrup and bring out the funky flavors of caramelized fructose, while the overall water content of the fruit is easily managed through a touch of tapioca starch.",
+                    "timestamp": 1656682169123
+                }
+            ],
+            "query": [
+                {
+                    "query": "tapioca starch",
+                    "timestamp": 1656682072116
+                }
+            ],
+            "timestamp": 1656682182953
+        },
+        {
+            "id": "-N5txDipasE8wGXRqil_",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "It's also important to note that waiting to add the tapioca starch prevents it from interfering with maceration.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "02a7421f951121d6",
+                    "paragraph_text": "Waiting to add the tapioca starch prevents it from interfering with maceration.)",
+                    "timestamp": 1656682216088
+                }
+            ],
+            "query": [],
+            "timestamp": 1656682245045
+        },
+        {
+            "id": "-N5txIbcIqZp6vSAx7R0",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5twVN9EgbzDHvqGl4l"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "It's also important to note that waiting to add the tapioca starch prevents it from interfering with maceration.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "02a7421f951121d6",
+                    "paragraph_text": "Waiting to add the tapioca starch prevents it from interfering with maceration.)",
+                    "timestamp": 1656682251688
+                }
+            ],
+            "query": [],
+            "timestamp": 1656682265064
+        },
+        {
+            "id": "-N5txQRNx-sHS7ww72nT",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5twVN9EgbzDHvqGl4l"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "It looks like this then:",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682297112
+        },
+        {
+            "id": "-N5txQcb0YEVAawy7ER9",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5twVN9EgbzDHvqGl4l"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "https://www.seriouseats.com/thmb/9Rs99qALRw2JIgG9W_1HCujPE14=/1505x1125/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2017__09__20170730-bravetart-apple-pie-vicky-wasik_collage-2-1013be3b880d415b97328a10995289de.jpg",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682297896
+        },
+        {
+            "id": "-N5txdjrKBr1yjCK-4KO",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682355703
+        },
+        {
+            "id": "-N5txoajPQtvjM3WLZfW",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5txdjrKBr1yjCK-4KO"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Before we go next, I want to highlight the selection of the pie shell. Which kind of shell do you pick?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682400175
+        },
+        {
+            "id": "-N5ty0m9S909eDCSf2bO",
+            "interaction_type": "text",
+            "information_need_type": "ingredient",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5txoajPQtvjM3WLZfW"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "What different kinds of pie shells are there?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682454154
+        },
+        {
+            "id": "-N5tyFKa67-NpgAKthZC",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5ty0m9S909eDCSf2bO"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "So you could pick, for instance, a ceramic plate, aluminium and glass. These are the most common ones.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682513766
+        },
+        {
+            "id": "-N5tyJnLjAy4lwwi9pNW",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5ty0m9S909eDCSf2bO"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Which one do you think is best for apple pies?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682532054
+        },
+        {
+            "id": "-N5tyM5TlqArgMy5IZxs",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5ty0m9S909eDCSf2bO"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "And why?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682541470
+        },
+        {
+            "id": "-N5tyhmtcUrqdSHTWiH6",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "science",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5tyFKa67-NpgAKthZC",
+                "-N5tyJnLjAy4lwwi9pNW",
+                "-N5tyM5TlqArgMy5IZxs"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "If I had to guess, I would say aluminium? I may be wrong, but the answer probably has something to do with how well it holds heat",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682634425
+        },
+        {
+            "id": "-N5tyuP3Xs20PcPaI3s8",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5tyhmtcUrqdSHTWiH6"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "So your guess regarding the heat is correct! That's the important thing. In our case, glass is important because it determines the rate at which heat is conducted to the pie. Heavy materials, like thick ceramic or stoneware, will slow that process down, which can produce a dense and greasy crust. Meanwhile, lightweight metal, like aluminum, may speed things up so much that by the time the crust is golden brown, the apples may still be a little crunchy. Glass lands right in the middle, conducting heat at a brisk but not breakneck pace, so that the crust turns out flaky and crisp just as the apples cook through.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "1bf8f28f9d2b904d",
+                    "paragraph_text": "Glass is important because it determines the rate at which heat is conducted to the pie.",
+                    "timestamp": 1656682580287
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "1bf8f28f9d2b904d",
+                    "paragraph_text": "Heavy materials, like thick ceramic or stoneware, will slow that process down, which can produce a dense and greasy crust.",
+                    "timestamp": 1656682580709
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "1bf8f28f9d2b904d",
+                    "paragraph_text": "Meanwhile, lightweight metal, like aluminum, may speed things up so much that by the time the crust is golden brown, the apples may still be a little crunchy.",
+                    "timestamp": 1656682581115
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "1bf8f28f9d2b904d",
+                    "paragraph_text": "Glass lands right in the middle, conducting heat at a brisk but not breakneck pace, so that the crust turns out flaky and crisp just as the apples cook through.",
+                    "timestamp": 1656682581668
+                }
+            ],
+            "query": [],
+            "timestamp": 1656682686084
+        },
+        {
+            "id": "-N5tzFYoEup2PmSNc6FZ",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5tyuP3Xs20PcPaI3s8"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Interesting!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682776821
+        },
+        {
+            "id": "-N5tzKSVrPWr4kI8V_no",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Any further questions? Otherwise we can jump to Step 4",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682796896
+        },
+        {
+            "id": "-N5tzQR5gKT8DrytFAer",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5tzKSVrPWr4kI8V_no"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "No further questions",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682821382
+        },
+        {
+            "id": "-N5tzRYvaeC9oPeAfauL",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "So this is step 4: \n For the Egg Wash: Whisk egg, yolk, cream, and salt together in a small bowl, then brush over the chilled pie. With a sharp knife, cut six 3-inch vents around the top, wiggling the blade left and right to open each into a wide vent.",
+            "provenance": [
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "For the Egg Wash: Whisk egg, yolk, cream, and salt together in a small bowl, then brush over the chilled pie.",
+                    "timestamp": 1656682813422
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "With a sharp knife, cut six 3-inch vents around the top, wiggling the blade left and right to open each into a wide vent.",
+                    "timestamp": 1656682814822
+                }
+            ],
+            "query": [],
+            "timestamp": 1656682825979
+        },
+        {
+            "id": "-N5tzizs3Xt0W1pzo3vN",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682901496
+        },
+        {
+            "id": "-N5tzvwU9VPAmRacq1ME",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "In this step, it is important to cut vents in the pie. Why is that do you think?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656682954527
+        },
+        {
+            "id": "-N5u-EMJ7A4lesYVlxqs",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "step_importance",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5tzvwU9VPAmRacq1ME"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "It lets the steam and heat escape so the filling cooks properly",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683034068
+        },
+        {
+            "id": "-N5u-ONC6wv4A-TT91nH",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5u-EMJ7A4lesYVlxqs"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "You're right! It does also affect the crust: when vents are cut too narrow, entrapped steam can make the top crust a bit mushy.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "0374d2e1f46ec03d",
+                    "paragraph_text": "When it's time to bake, brush the pie with an egg wash, then cut five or six large vents with a sharp knife, using the blade to open each one a little wider\u2014when vents are cut too narrow, entrapped steam can make the top crust a bit mushy.",
+                    "timestamp": 1656683057975
+                }
+            ],
+            "query": [],
+            "timestamp": 1656683075085
+        },
+        {
+            "id": "-N5u-RdjG5w-jlynk-dY",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5u-EMJ7A4lesYVlxqs"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "This is how it should look like:",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683088495
+        },
+        {
+            "id": "-N5u-RnunVSKc0MFSw_q",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5u-EMJ7A4lesYVlxqs"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "https://www.seriouseats.com/thmb/AYy6Y1DaXpXOJhdn3S8_k92OFSs=/1505x1125/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2017__09__20170730-bravetart-apple-pie-vicky-wasik_collage-4-48c05645070f4be9bd81145bad26c71a.jpg",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683089146
+        },
+        {
+            "id": "-N5u-VzP5OpKdAzk3Dia",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "No for Step 5:  To Bake: Place pie on a parchment-lined aluminum half sheet pan and bake until 195\u00b0F (91\u00b0C) in the very center, about 75 minutes. This is easiest to monitor with an in-oven digital thermometer, which can be programmed to chime on reaching the target temperature.",
+            "provenance": [
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "To Bake: Place pie on a parchment-lined aluminum half sheet pan and bake until 195\u00b0F (91\u00b0C) in the very center, about 75 minutes.",
+                    "timestamp": 1656683103855
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "This is easiest to monitor with an in-oven digital thermometer, which can be programmed to chime on reaching the target temperature.",
+                    "timestamp": 1656683104280
+                }
+            ],
+            "query": [],
+            "timestamp": 1656683106266
+        },
+        {
+            "id": "-N5u05WVY8hqfKJfY4KW",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683260001
+        },
+        {
+            "id": "-N5u0L_WrYqeV4svimVf",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5u05WVY8hqfKJfY4KW"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Before we reach the final step: Did you notice that we should bake the pie at only 195\u00b0F (91\u00b0C)? However, a few steps before we had to heat the oven to 400\u00b0F.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683325793
+        },
+        {
+            "id": "-N5u0R7GgB2iCJjTYQov",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5u05WVY8hqfKJfY4KW"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Can you think of an advantage to cooling it down whilst baking the pie?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683348497
+        },
+        {
+            "id": "-N5u0W3-_ywQCfanK3xD",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "step_importance",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-N5u0L_WrYqeV4svimVf",
+                "-N5u0R7GgB2iCJjTYQov"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "What is the advantage?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683368704
+        },
+        {
+            "id": "-N5u0bkEUZVrm_yAVJJS",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-N5u0W3-_ywQCfanK3xD"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "It is significantly cooler than the goal temperature for most fruit pie fillings, which are typically brought to a full boil, but it keeps the apples tender rather than mushy and avoids the problem of a watery pie. When brought to a boil, apples break down and release their juices completely, flooding the pie. A slightly-cooler-than-standard target temperature keeps the apples plump and juicy, with enough structure to retain their own water content, so there isn't as much need for starch.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "e98d71c944511e5f",
+                    "paragraph_text": "This is significantly cooler than the goal temperature for most fruit pie fillings, which are typically brought to a full boil, but it keeps the apples tender rather than mushy and avoids the problem of a watery pie.",
+                    "timestamp": 1656683379248
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "e98d71c944511e5f",
+                    "paragraph_text": "When brought to a boil, apples break down and release their juices completely, flooding the pie.",
+                    "timestamp": 1656683381672
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "e98d71c944511e5f",
+                    "paragraph_text": "A slightly-cooler-than-standard target temperature keeps the apples plump and juicy, with enough structure to retain their own water content, so there isn't as much need for starch.",
+                    "timestamp": 1656683382529
+                }
+            ],
+            "query": [],
+            "timestamp": 1656683396112
+        },
+        {
+            "id": "-N5u0tG3RUc0YhENsZRY",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5u0bkEUZVrm_yAVJJS"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Cool!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683467845
+        },
+        {
+            "id": "-N5u0xeD_Ibdk0vbUe4M",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "The last step:  To Serve: Cool at least 1 hour at room temperature before serving. Wrapped in foil, leftovers will keep 3 days at room temperature. Warm in a 350\u00b0F (180\u00b0C) oven to restore the crispy crust and saucy filling.",
+            "provenance": [
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "To Serve: Cool at least 1 hour at room temperature before serving.",
+                    "timestamp": 1656683476434
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Wrapped in foil, leftovers will keep 3 days at room temperature.",
+                    "timestamp": 1656683476864
+                },
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "Warm in a 350\u00b0F (180\u00b0C) oven to restore the crispy crust and saucy filling.",
+                    "timestamp": 1656683477280
+                }
+            ],
+            "query": [],
+            "timestamp": 1656683485838
+        },
+        {
+            "id": "-N5u1an2xgx58Cp7UdI1",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5u0xeD_Ibdk0vbUe4M"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Thank you!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683654339
+        },
+        {
+            "id": "-N5u1fF6g-Ab5_GykTGB",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5u1an2xgx58Cp7UdI1"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "You're welcome! Look at that yummy cake:",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683672583
+        },
+        {
+            "id": "-N5u1fUYzE1IVyjhHd4z",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5u1an2xgx58Cp7UdI1"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "https://www.seriouseats.com/thmb/pRw1zHpnfrE3uAM76EKRelb4aUc=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2017__09__20170730-bravetart-apple-pie-vicky-wasik-1-d491465470714b4f88832e9d33b0fdf8.jpg",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683673571
+        },
+        {
+            "id": "-N5u1ffv_mxtaAc0Zdgl",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-N5u1an2xgx58Cp7UdI1"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "https://www.seriouseats.com/thmb/zN8ChH8lUvC6Q3bX7GJq0s40cdY=/1500x1125/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2017__09__20170730-bravetart-apple-pie-vicky-wasik-21-99389646baf94cc6be449c49770be457.jpg",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1656683674363
+        }
+    ]
+}

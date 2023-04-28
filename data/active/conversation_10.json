@@ -1,0 +1,1609 @@
+{
+    "conversation_id": "ozf8rdojjw",
+    "condition": "active",
+    "recipe_id": "120",
+    "recipe_title": "Parisian Gnocchi Recipe",
+    "participant_gender": "female",
+    "participant_age": "45-54",
+    "keep_conversation": true,
+    "comments": "",
+    "conversation": [
+        {
+            "id": "-NBMQDn7ycAZOzlaT07l",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Hey there! Happy to have you on board for our masterclass :) Today you will be learning how to prepare Parisian Gnocchi. Make sure you have all the ingredients and tools and feel free to ask questions. If you are ready to start cooking simply say start.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545358024
+        },
+        {
+            "id": "-NBMQFMjzxdIPTQhtpLh",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMQDn7ycAZOzlaT07l"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "start",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545364463
+        },
+        {
+            "id": "-NBMQL5OtSJxrPZBZ_lu",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Do you have any questions about the ingredients required for this recipe?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545387929
+        },
+        {
+            "id": "-NBMQOecH-Ono1HFskXl",
+            "interaction_type": "text",
+            "information_need_type": "ingredient",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-NBMQL5OtSJxrPZBZ_lu"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "what's kosher salt?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545402536
+        },
+        {
+            "id": "-NBMQVn826T19aLA6hwW",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMQOecH-Ono1HFskXl"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Kosher salt or kitchen salt is coarse edible salt without common additives such as iodine. Used in cooking and not at the table, it consists mainly of sodium chloride and may include anticaking agents.",
+            "provenance": [
+                {
+                    "page_id": "9650940d502b01d6",
+                    "page_origin": "wikipedia",
+                    "page_title": "Kosher salt",
+                    "section_title": "Kosher salt",
+                    "paragraph_id": "f2006367bc3e9d1c",
+                    "paragraph_text": "Kosher salt or kitchen salt is coarse edible salt without common additives such as iodine. Used in cooking and not at the table, it consists mainly of sodium chloride and may include anticaking agents.",
+                    "timestamp": 1662545417255
+                }
+            ],
+            "query": [
+                {
+                    "query": "kosher salt",
+                    "timestamp": 1662545408300
+                }
+            ],
+            "timestamp": 1662545431753
+        },
+        {
+            "id": "-NBMQkXgEYKFaiCigXl8",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMQVn826T19aLA6hwW"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "thank you",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545496237
+        },
+        {
+            "id": "-NBMQtH2ufa0KBXxE5IR",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "is there anything else you'd like to know about the required ingredients?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545532035
+        },
+        {
+            "id": "-NBMR5PDQIiNmUpdci8P",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMQtH2ufa0KBXxE5IR"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "no",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545585806
+        },
+        {
+            "id": "-NBMRIGVpo6AS73pgvL7",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Ok, should we go to the next step? Remember that you can go from one step to another in this recipe by simply typing previous or next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545638497
+        },
+        {
+            "id": "-NBMRKtMMdiNRIi0_UMx",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMRIGVpo6AS73pgvL7"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545649240
+        },
+        {
+            "id": "-NBMRPxHy7bOH39G0MXa",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545669970
+        },
+        {
+            "id": "-NBMRQBht3n_rYZoHhub",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 1\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545670957
+        },
+        {
+            "id": "-NBMRZD21WHFUwbuG14o",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545707907
+        },
+        {
+            "id": "-NBMRf1h7OkpN6z3TNaK",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMRZD21WHFUwbuG14o"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Before going to the next step, I want to highlight that this first step is crucial when making gnocchi.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545735853
+        },
+        {
+            "id": "-NBMRlGBxkX9-F5226Hm",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "step_importance",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-NBMRf1h7OkpN6z3TNaK"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "why is it crucial?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662545761356
+        },
+        {
+            "id": "-NBMSFbczk6JzL-iBRvI",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMRlGBxkX9-F5226Hm"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "S parisian gnocchi are somewhat of an oddity in the Western repertoire, in that they're made with a hot water dough\u2014much like Chinese-style dumpling or stretched noodle dough.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Some Like it Hot",
+                    "paragraph_id": "e3950afcf29acd9d",
+                    "paragraph_text": "Parisian gnocchi are somewhat of an oddity in the Western repertoire, in that they're made with a hot water dough\u2014much like Chinese-style dumpling or stretched noodle dough.",
+                    "timestamp": 1662545881167
+                }
+            ],
+            "query": [],
+            "timestamp": 1662545889769
+        },
+        {
+            "id": "-NBMSM15NkfJq4B5frgw",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMRlGBxkX9-F5226Hm"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "With a hot water dough, By adding flour directly to boiling water, you actually end up not only denaturing the proteins, but smashing them into small pieces.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Some Like it Hot",
+                    "paragraph_id": "8f72c93872155458",
+                    "paragraph_text": "A hot water dough, on the other hand, works differently.",
+                    "timestamp": 1662545894840
+                },
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Some Like it Hot",
+                    "paragraph_id": "8f72c93872155458",
+                    "paragraph_text": "By adding flour directly to boiling water, you actually end up not only denaturing the proteins, but smashing them into small pieces.",
+                    "timestamp": 1662545897268
+                }
+            ],
+            "query": [],
+            "timestamp": 1662545916038
+        },
+        {
+            "id": "-NBMST43ah1jupBOui1P",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMRlGBxkX9-F5226Hm"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Some degree of gluten can still form, but because cooked proteins aren't nearly as stretchy or clingy as raw ones, you won't get anywhere near the elasticity of a cold-water dough.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Some Like it Hot",
+                    "paragraph_id": "8f72c93872155458",
+                    "paragraph_text": "Some degree of gluten can still form, but because cooked proteins aren't nearly as stretchy or clingy as raw ones, you won't get anywhere near the elasticity of a cold-water dough.",
+                    "timestamp": 1662545925116
+                }
+            ],
+            "query": [],
+            "timestamp": 1662545944900
+        },
+        {
+            "id": "-NBMSUQDaszfJG6Airyi",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMRlGBxkX9-F5226Hm"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Adding butter and other fats to the dough will further diminish its gluten-forming abilities.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Some Like it Hot",
+                    "paragraph_id": "8f72c93872155458",
+                    "paragraph_text": "Adding butter and other fats to the dough will further diminish its gluten-forming abilities.",
+                    "timestamp": 1662545948845
+                }
+            ],
+            "query": [],
+            "timestamp": 1662545950414
+        },
+        {
+            "id": "-NBMSXNm9ej6NQdq8f2g",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMRlGBxkX9-F5226Hm"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "As a result, a p\u00e2te \u00e0 choux dough isn't stretchy or bouncy; its more malleable and supple.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Some Like it Hot",
+                    "paragraph_id": "8f72c93872155458",
+                    "paragraph_text": "As a result, a p\u00e2te \u00e0 choux dough isn't stretchy or bouncy; its more malleable and supple, kind of like Play-Do.",
+                    "timestamp": 1662545953540
+                }
+            ],
+            "query": [],
+            "timestamp": 1662545962546
+        },
+        {
+            "id": "-NBMSiirauFC_yQlKBhM",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMRlGBxkX9-F5226Hm"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "This fact that a p\u00e2te \u00e0 choux dough isn't stretchy or bouncy is essential when making Parisian Gnocchi",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546013111
+        },
+        {
+            "id": "-NBMSsgj6w3YXAElYqOB",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "history",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "where do they come from?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546053935
+        },
+        {
+            "id": "-NBMSyCPwPUuqg8D1OOC",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-NBMSsgj6w3YXAElYqOB"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Would you like to know about the origin of this dish?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546076506
+        },
+        {
+            "id": "-NBMT1aULnusB3I39V8g",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "history",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMSyCPwPUuqg8D1OOC"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "please",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546094495
+        },
+        {
+            "id": "-NBMTjrOtwjctXxOknJ7",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMT1aULnusB3I39V8g"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "So the word \"gnocchi\" may be derived from the Italian word \"nocchio\", meaning a knot in wood, or from \"nocca\" (meaning knuckle). It has been a traditional type of Italian pasta of (probable) Middle Eastern origin since Roman times. It was introduced by the Roman legions during the expansion of the empire into the countries of the European continent. Parisian Gnocchi or \"gnocchis \u00e0 la parisienne\", is a regional French variety comprising gnocchi formed of choux pastry served with B\u00e9chamel sauce.",
+            "provenance": [
+                {
+                    "page_id": "12ba6f8c60f94e33",
+                    "page_origin": "wikipedia",
+                    "page_title": "Gnocchi",
+                    "section_title": "Origin.",
+                    "paragraph_id": "0670dc1b8ef53262",
+                    "paragraph_text": "The word \"gnocchi\" may be derived from the Italian word \"nocchio\", meaning a knot in wood, or from \"nocca\" (meaning knuckle). It has been a traditional type of Italian pasta of (probable) Middle Eastern origin since Roman times. It was introduced by the Roman legions during the expansion of the empire into the countries of the European continent. In Roman times, gnocchi were made from a semolina porridge-like dough mixed with eggs, and are still found in similar forms today, particularly the oven-baked \"gnocchi alla romana\" and Sardinia's \"malloreddus\" which do not contain eggs.",
+                    "timestamp": 1662546185050
+                },
+                {
+                    "page_id": "12ba6f8c60f94e33",
+                    "page_origin": "wikipedia",
+                    "page_title": "Gnocchi",
+                    "section_title": "Regional varieties.:France.",
+                    "paragraph_id": "0064b81ffa20d39a",
+                    "paragraph_text": "The name is also used in France in the dish known as \"gnocchis \u00e0 la parisienne\", a hot dish comprising gnocchi formed of choux pastry served with B\u00e9chamel sauce. A specialty of Nice, the \"gnocchi de tantifla a la nissarda\", is made with potatoes, wheat flour, eggs and \"blette\" (Swiss chard), which is also used for the \"tourte de blette\". \"La merda d\u00e9 can\" is longer than the original gnocchi.",
+                    "timestamp": 1662546187318
+                },
+                {
+                    "page_id": "12ba6f8c60f94e33",
+                    "page_origin": "wikipedia",
+                    "page_title": "Gnocchi",
+                    "section_title": "Regional varieties.:France.",
+                    "paragraph_id": "1368e4679bacff3d",
+                    "paragraph_text": "Regional varieties.:France.",
+                    "timestamp": 1662546189654
+                }
+            ],
+            "query": [
+                {
+                    "query": "parisian gnocchi",
+                    "timestamp": 1662546081154
+                },
+                {
+                    "query": "gnocchi",
+                    "timestamp": 1662546102127
+                }
+            ],
+            "timestamp": 1662546279898
+        },
+        {
+            "id": "-NBMTs8GHJMkdiLwbpYo",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546313810
+        },
+        {
+            "id": "-NBMU2VZ264TS3iqXkzw",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Can you tell me what's the difference between cold water dough and hot water dough and why that's important in this context?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546360357
+        },
+        {
+            "id": "-NBMUsJ2m83s2I9P3NLf",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "science",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMU2VZ264TS3iqXkzw"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "hot water not only denatures the proteins it also smashes them into small pieces which cold water doesn't and we need that to happen to get the elasticity required",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546576643
+        },
+        {
+            "id": "-NBMV2PFE_zSoK4M7dVi",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMUsJ2m83s2I9P3NLf"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "That's correct! And that's really important in this context.  The beauty of a hot water dough is that, as you can see, it doesn't bounce back as much as a cold water dough does. As the gnocchi go through their primary poaching step in simmering water, water vapor and trapped gases will expand, causing the gnocchi to inflate slightly.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Some Like it Hot",
+                    "paragraph_id": "226b873263a94fbf",
+                    "paragraph_text": "The beauty of a hot water dough is that, as you can see, it doesn't bounce back as much as a cold water dough does.",
+                    "timestamp": 1662546611578
+                },
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Some Like it Hot",
+                    "paragraph_id": "226b873263a94fbf",
+                    "paragraph_text": "This is important: as the gnocchi go through their primary poaching step in simmering water, water vapor and trapped gases will expand, causing the gnocchi to inflate slightly.",
+                    "timestamp": 1662546614616
+                }
+            ],
+            "query": [],
+            "timestamp": 1662546622096
+        },
+        {
+            "id": "-NBMV3jA9LwMtP90wzM4",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMUsJ2m83s2I9P3NLf"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "This change in density caused by expanding gases is what causes them to gently float to the surface of the pot as they poach.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Some Like it Hot",
+                    "paragraph_id": "226b873263a94fbf",
+                    "paragraph_text": "This change in density caused by expanding gases is what causes them to gently float to the surface of the pot as they poach.",
+                    "timestamp": 1662546625701
+                }
+            ],
+            "query": [],
+            "timestamp": 1662546627531
+        },
+        {
+            "id": "-NBMV7JBSPwhbaGZ6zzc",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMUsJ2m83s2I9P3NLf"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "If we were to try and make gnocchi with a cold water dough we'd end up with dense, chewy nubs that taste more like damp bread.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Some Like it Hot",
+                    "paragraph_id": "4e2e68a9ce41c751",
+                    "paragraph_text": "If we were to try and make gnocchi with a cold water dough, one with plenty of springy, elastic gluten, we'd have a heck of a time getting those gnocchi hot enough to expand to the point where they come out nice and airy; Instead, we'd end up with dense, chewy nubs that taste more like damp bread.",
+                    "timestamp": 1662546633542
+                }
+            ],
+            "query": [],
+            "timestamp": 1662546642189
+        },
+        {
+            "id": "-NBMVP_bztEAbvIiUHgw",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMV2PFE_zSoK4M7dVi",
+                "-NBMV3jA9LwMtP90wzM4",
+                "-NBMV7JBSPwhbaGZ6zzc"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "okay",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546717031
+        },
+        {
+            "id": "-NBMVXohEDt7Y641jgnT",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Do you have any other questions about this step or would you like to go to the next one?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546750765
+        },
+        {
+            "id": "-NBMVk0GDLneRciXDEQM",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMVXohEDt7Y641jgnT"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546804817
+        },
+        {
+            "id": "-NBMVkrSfSxcwwpGENH6",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546808285
+        },
+        {
+            "id": "-NBMVkvI9Ep2uHiGUkXY",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 2\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546808531
+        },
+        {
+            "id": "-NBMWFCFpOIFjOe9VgMe",
+            "interaction_type": "text",
+            "information_need_type": "amount",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "what is a gallon in uk sizes?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662546936657
+        },
+        {
+            "id": "-NBMWb6wmmamik7Fd-_b",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMWFCFpOIFjOe9VgMe"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "A US dry gallon corresponds approximately to  4.4 liters.",
+            "provenance": [
+                {
+                    "page_id": "fa28cecb5d195de7",
+                    "page_origin": "wikipedia",
+                    "page_title": "Gallon",
+                    "section_title": "Gallon",
+                    "paragraph_id": "81a2abaeee1dd97f",
+                    "paragraph_text": "- the US dry gallon, defined as US bushel (exactly 4.40488377086 litres).",
+                    "timestamp": 1662546999603
+                }
+            ],
+            "query": [
+                {
+                    "query": "gallon",
+                    "timestamp": 1662546975042
+                }
+            ],
+            "timestamp": 1662547030524
+        },
+        {
+            "id": "-NBMWcOlXfIlmw_3FJ3o",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMWb6wmmamik7Fd-_b"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "thank you",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547035761
+        },
+        {
+            "id": "-NBMWh5lt0k2qtoBh1Po",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Are you planning to use a stand mixer or a wooden spoon in this step?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547055025
+        },
+        {
+            "id": "-NBMX2nhXkQMSU-RCimp",
+            "interaction_type": "text",
+            "information_need_type": "equipment",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMWh5lt0k2qtoBh1Po"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "a stand mixer",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547148013
+        },
+        {
+            "id": "-NBMXIge5dOZ4_6Nc1as",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMX2nhXkQMSU-RCimp"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "That's a good choice. There's absolutely no detectable difference between the wooden spoon and the stand-mixer method, provided you beat extremely vigorously. However, if you're even slightly lax with the hand-beating, then the stand mixer method will produce superior results every time.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Sure Beats Beating",
+                    "paragraph_id": "d858121ae4bef555",
+                    "paragraph_text": "Cooked side-by-side, there's absolutely no detectable difference between the wooden spoon and the stand-mixer method, provided you beat extremely vigorously.",
+                    "timestamp": 1662547183320
+                },
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Sure Beats Beating",
+                    "paragraph_id": "d858121ae4bef555",
+                    "paragraph_text": "If you're even slightly lax with the hand-beating, then the stand mixer method will produce superior results every time.",
+                    "timestamp": 1662547201327
+                }
+            ],
+            "query": [],
+            "timestamp": 1662547213098
+        },
+        {
+            "id": "-NBMXX4deM8wpMmpve69",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547272041
+        },
+        {
+            "id": "-NBMXdYVAwxyPxRxAyrI",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Besides, at this step, make sure you do not add the flour and eggs to the mixer and only then pour in the boiling water and butter mixture.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Sure Beats Beating",
+                    "paragraph_id": "f242e7d8324ad2db",
+                    "paragraph_text": "I added my flour and eggs to the mixer, then, with the mixer running, poured in the boiling water and butter mixture before discovering why it doesn't work.",
+                    "timestamp": 1662547250236
+                }
+            ],
+            "query": [],
+            "timestamp": 1662547302624
+        },
+        {
+            "id": "-NBMXp9nUrGq6UyXxjAb",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMXdYVAwxyPxRxAyrI"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "okay",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547350196
+        },
+        {
+            "id": "-NBMXtCKpqZ3u-6pGkJv",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Ok let's go to the next step",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547366741
+        },
+        {
+            "id": "-NBMXtKOY45ynTe94y4Q",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547367257
+        },
+        {
+            "id": "-NBMXtPoahKY3hPcU6QH",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 3\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547367604
+        },
+        {
+            "id": "-NBMY0lJ6GYt5kwAEjvs",
+            "interaction_type": "text",
+            "information_need_type": "equipment",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "do you have to use a wooden spoon or can you use a mixer still?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547401813
+        },
+        {
+            "id": "-NBMYHYLPUqafbLica1C",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMY0lJ6GYt5kwAEjvs"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "As I mentioned previously, there's absolutely no detectable difference between the wooden spoon and the stand-mixer method, provided you beat the mixture extremely vigorously. However, if you're even slightly lax with the hand-beating, then the stand mixer method will produce superior results every time.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Sure Beats Beating",
+                    "paragraph_id": "d858121ae4bef555",
+                    "paragraph_text": "Cooked side-by-side, there's absolutely no detectable difference between the wooden spoon and the stand-mixer method, provided you beat extremely vigorously.",
+                    "timestamp": 1662547440676
+                },
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Sure Beats Beating",
+                    "paragraph_id": "d858121ae4bef555",
+                    "paragraph_text": "If you're even slightly lax with the hand-beating, then the stand mixer method will produce superior results every time.",
+                    "timestamp": 1662547464658
+                }
+            ],
+            "query": [],
+            "timestamp": 1662547470550
+        },
+        {
+            "id": "-NBMYKA22t-8JoWvdwDK",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMYHYLPUqafbLica1C"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "okay",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547481283
+        },
+        {
+            "id": "-NBMYVgsCa0xpYZ7rdiq",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Do you have any questions about this step, the ingredients required, or the process?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547528504
+        },
+        {
+            "id": "-NBMYgPzYYcwLKilIysR",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMYVgsCa0xpYZ7rdiq"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "none i'd use the mixer method",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547576511
+        },
+        {
+            "id": "-NBMZAY4ZEWMRcRvmfZA",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "In this step, I would recommend adding parmesan cheese and a small dollop of Dijon mustard to the dough",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Pipe Dreams",
+                    "paragraph_id": "454ba9e7b5200cdc",
+                    "paragraph_text": "Parmesan cheese is a given for me, adding a savory backbone and helping the gnocchi to brown better down the line.",
+                    "timestamp": 1662547677759
+                },
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Pipe Dreams",
+                    "paragraph_id": "454ba9e7b5200cdc",
+                    "paragraph_text": "I take another cue from Thomas Keller and add a small dollop of Dijon mustard to my dough, as well as chopped herbs.",
+                    "timestamp": 1662547687563
+                }
+            ],
+            "query": [],
+            "timestamp": 1662547704005
+        },
+        {
+            "id": "-NBMZFkMINNvZesLcs9K",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMZAY4ZEWMRcRvmfZA"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "okay",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547725335
+        },
+        {
+            "id": "-NBMZRgSDA-yZ9ELPKoX",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMZFkMINNvZesLcs9K"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Great! let me know once you are done so we can go to the next step.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547774237
+        },
+        {
+            "id": "-NBMZXxfeZvqVvD69u2v",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547799915
+        },
+        {
+            "id": "-NBMZZ8bnSaQFd-wrbHn",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547804776
+        },
+        {
+            "id": "-NBMZZMh-jC6NoxfUJ8W",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 4\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547805678
+        },
+        {
+            "id": "-NBMZiGCUCHDtIOCJQOH",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "time",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "why just 1 minute?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662547846221
+        },
+        {
+            "id": "-NBM_4sLvfNaDk2Wj3nN",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMZiGCUCHDtIOCJQOH"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "So the goal is to pipe and cut as many gnocchi as you possibly can within about a minute so that the last gnocchi that drops in won't be too far behind the first one that entered the pool.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Pipe Dreams",
+                    "paragraph_id": "0a3de6481cf5baca",
+                    "paragraph_text": "The goal is to pipe and cut as many gnocchi as you possibly can within about a minute, so that the last gnocchi that drops in won't be too far behind the first one that entered the pool.",
+                    "timestamp": 1662547930900
+                }
+            ],
+            "query": [],
+            "timestamp": 1662547942934
+        },
+        {
+            "id": "-NBM_Kav5cPT2kkh_kxM",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMZiGCUCHDtIOCJQOH"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "However, before you transfer the dough into a piping bag or a zipper-lock bag with the corner snipped off, you should let it rest for 20 minutes or so.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Pipe Dreams",
+                    "paragraph_id": "b2f4b018631c57b6",
+                    "paragraph_text": "To do it, you transfer the dough into a piping bag or a zipper-lock bag with the corner snipped off, then let it rest for 20 minutes or so.",
+                    "timestamp": 1662547986736
+                }
+            ],
+            "query": [],
+            "timestamp": 1662548007356
+        },
+        {
+            "id": "-NBMa-FaOLPM4zuBVeL8",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-NBMZiGCUCHDtIOCJQOH"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Do you have any other questions about this step?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662548182054
+        },
+        {
+            "id": "-NBMaSVavq9rRd3ZCbVM",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBM_4sLvfNaDk2Wj3nN",
+                "-NBM_Kav5cPT2kkh_kxM",
+                "-NBMa-FaOLPM4zuBVeL8"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "i don't no",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662548301862
+        },
+        {
+            "id": "-NBMaTBojDNvutw3oe_y",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662548304692
+        },
+        {
+            "id": "-NBMaUfwTNzsVXbq-IYd",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662548310780
+        },
+        {
+            "id": "-NBMaUjzGaaJaSf5b5cx",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 5\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662548311039
+        },
+        {
+            "id": "-NBMabhXZ18IcDUBVl-H",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "equipment",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "why a rimmed sheet?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662548343651
+        },
+        {
+            "id": "-NBMbDslhygEge9O2D7J",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMabhXZ18IcDUBVl-H"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Once the gnocchi are poached you want to let them rest. Therefore, you can transfer them to a rimmed baking sheet, toss them in a bit of oil, and let them cool down.",
+            "provenance": [
+                {
+                    "page_id": "01be516b91f955d3",
+                    "page_origin": "excel",
+                    "page_title": "How to Make Parisian Gnocchi | The Food Lab",
+                    "section_title": "Pipe Dreams",
+                    "paragraph_id": "0a983faa69f50717",
+                    "paragraph_text": "The beauty of these gnocchi is that once they're poached, you can transfer them to a rimmed baking sheet, toss them in a bit of oil, and let them cool down.",
+                    "timestamp": 1662548447709
+                }
+            ],
+            "query": [],
+            "timestamp": 1662548504114
+        },
+        {
+            "id": "-NBMbJSNrptXBMIkh-nE",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMbDslhygEge9O2D7J"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "okay",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662548526936
+        },
+        {
+            "id": "-NBMbOHGtC_kVUSV6HIz",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662548546705
+        },
+        {
+            "id": "-NBMbTuma32Vh-_MytQk",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Congratulations! You reached the last step in this recipe! Well done!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662548569779
+        },
+        {
+            "id": "-NBMbVnBOftYnPfTnsD5",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMbTuma32Vh-_MytQk"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "thank you",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662548577485
+        }
+    ]
+}

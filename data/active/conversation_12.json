@@ -1,0 +1,1555 @@
+{
+    "conversation_id": "v684ge8cmo",
+    "condition": "active",
+    "recipe_id": "419",
+    "recipe_title": "Easy Old-Fashioned Apple Pie Recipe | BraveTart",
+    "participant_gender": "female",
+    "participant_age": "35-44",
+    "keep_conversation": true,
+    "comments": "",
+    "conversation": [
+        {
+            "id": "-NBMwMVF5SbMX03l6tpn",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Hey there! Happy to have you on board for our masterclass :) Today you will be learning how to prepare Apple Pie. Make sure you have all the ingredients and tools and feel free to ask questions. If you are ready to start cooking simply say start.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554044433
+        },
+        {
+            "id": "-NBMwPx_votr8HIv5bnC",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMwMVF5SbMX03l6tpn"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Start",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554058598
+        },
+        {
+            "id": "-NBMwUY-_Cy9BqLiSxOe",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Do you have any questions about the ingredients you need to make apple pie?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554077376
+        },
+        {
+            "id": "-NBMw_gjBL_4KWJlEr6_",
+            "interaction_type": "text",
+            "information_need_type": "ingredient",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-NBMwUY-_Cy9BqLiSxOe"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "What is kosher salt",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554102575
+        },
+        {
+            "id": "-NBMwfUUhzPUR_xsrJse",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMw_gjBL_4KWJlEr6_"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "That's a great question! Kosher salt or kitchen salt is coarse edible salt without common additives such as iodine. Used in cooking and not at the table, it consists mainly of sodium chloride and may include anticaking agents.",
+            "provenance": [
+                {
+                    "page_id": "9650940d502b01d6",
+                    "page_origin": "wikipedia",
+                    "page_title": "Kosher salt",
+                    "section_title": "Kosher salt",
+                    "paragraph_id": "f2006367bc3e9d1c",
+                    "paragraph_text": "Kosher salt or kitchen salt is coarse edible salt without common additives such as iodine. Used in cooking and not at the table, it consists mainly of sodium chloride and may include anticaking agents.",
+                    "timestamp": 1662554115889
+                }
+            ],
+            "query": [
+                {
+                    "query": "kosher salt",
+                    "timestamp": 1662554107648
+                }
+            ],
+            "timestamp": 1662554126303
+        },
+        {
+            "id": "-NBMwqf07NpHHVdQEKr5",
+            "interaction_type": "text",
+            "information_need_type": "ingredient",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "What is tapioca starch",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554172097
+        },
+        {
+            "id": "-NBMxBjqfhMw0snWR0Md",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMwqf07NpHHVdQEKr5"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Tapioca is a starch extracted from the storage roots of the cassava plant (\"Manihot esculenta\").",
+            "provenance": [
+                {
+                    "page_id": "b958534b0377ca63",
+                    "page_origin": "wikipedia",
+                    "page_title": "Tapioca",
+                    "section_title": "Tapioca",
+                    "paragraph_id": "e26dd1d825467189",
+                    "paragraph_text": "Tapioca (; ) is a starch extracted from the storage roots of the cassava plant (\"Manihot esculenta\"). This species is native to the north region and central-west region of Brazil, but its use spread throughout South America. The plant was carried by Portuguese and Spanish explorers to most of the West Indies and Africa and Asia. It is a perennial shrub adapted to the hot conditions of tropical lowlands. Cassava copes better with poor soils than many other food plants.",
+                    "timestamp": 1662554194371
+                },
+                {
+                    "page_id": "b958534b0377ca63",
+                    "page_origin": "wikipedia",
+                    "page_title": "Tapioca",
+                    "section_title": "Uses.:Laundry.",
+                    "paragraph_id": "a2b14ba56fe41f7e",
+                    "paragraph_text": "Tapioca starch, used commonly for starching shirts and garments before ironing, may be sold in bottles of natural gum starch to be dissolved in water or in spray cans.",
+                    "timestamp": 1662554241054
+                }
+            ],
+            "query": [
+                {
+                    "query": "tapioca starch",
+                    "timestamp": 1662554177533
+                }
+            ],
+            "timestamp": 1662554262518
+        },
+        {
+            "id": "-NBMxH18TXOEeU5Y6zGA",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554284169
+        },
+        {
+            "id": "-NBMxIVlw0C7vCfgA9r1",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554290225
+        },
+        {
+            "id": "-NBMxIk7ad-ijZ-aemUp",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 1\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554291209
+        },
+        {
+            "id": "-NBMxMmcHHpjjj0F4Wd2",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "For this recipe, selecting the right type of apples is key",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554307752
+        },
+        {
+            "id": "-NBMxVAa9Fr1sncrvpQU",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "step_importance",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-NBMxMmcHHpjjj0F4Wd2"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Why does the type of apples matter?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554342118
+        },
+        {
+            "id": "-NBMxji9WuXbMTbsqZ94",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMxVAa9Fr1sncrvpQU"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "While it's often said that when making apple pie, using a variety of apples can create depth of flavor. However, this can also introduce unnecessary variables into the equation, with some types of apples breaking down more quickly to flood the pie with juice.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "a1216acf297e719d",
+                    "paragraph_text": "While it's often said that using a variety of apples can create depth of flavor, this can also introduce unnecessary variables into the equation, with some types breaking down more quickly to flood the pie with juice.",
+                    "timestamp": 1662554369324
+                }
+            ],
+            "query": [],
+            "timestamp": 1662554405770
+        },
+        {
+            "id": "-NBMxome7KQSY-0wWKlG",
+            "interaction_type": "text",
+            "information_need_type": "cooking_technique",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Can you show me a video of how to cut the apples?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554426539
+        },
+        {
+            "id": "-NBMxooD6wpy3b_72PPr",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMxVAa9Fr1sncrvpQU"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Hence, I would recommend using tart baking apples, like Granny Smiths.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "c918e39f181e525f",
+                    "paragraph_text": "For this purpose, I'm a big fan of tart baking apples, like Granny Smiths.",
+                    "timestamp": 1662554415639
+                }
+            ],
+            "query": [],
+            "timestamp": 1662554426638
+        },
+        {
+            "id": "-NBMy-4Yx6ptodS4np2j",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMxome7KQSY-0wWKlG"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "https://cdn.jwplayer.com/v2/media/Ern2tc8F/poster.jpg<video_separator>https://cdn.jwplayer.com/videos/Ern2tc8F.mp4",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554472803
+        },
+        {
+            "id": "-NBMy1ykLpxo_c9M9WUd",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMxome7KQSY-0wWKlG"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "you can check from minute 0.30 to 0.45",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554484656
+        },
+        {
+            "id": "-NBMy6eg9TB07yTILZtp",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBMxome7KQSY-0wWKlG"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "The way in which you cut apples here is a crucial step when making apple pie",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554503852
+        },
+        {
+            "id": "-NBMyFMleh62We98u5rB",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554539505
+        },
+        {
+            "id": "-NBMyIkbRgFJyeO1SJng",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554553383
+        },
+        {
+            "id": "-NBMyIorScL4W9INtYYO",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 2\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554553655
+        },
+        {
+            "id": "-NBMyO-JdoX7cSXRWi0_",
+            "interaction_type": "text",
+            "information_need_type": "cooking_technique",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "What is macerating?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554574868
+        },
+        {
+            "id": "-NBMylXVJXAfjlcQHN9v",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMyO-JdoX7cSXRWi0_"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Great question! Let me see what I can find",
+            "provenance": [],
+            "query": [
+                {
+                    "query": "macerating",
+                    "timestamp": 1662554590654
+                },
+                {
+                    "query": "maceration",
+                    "timestamp": 1662554606590
+                },
+                {
+                    "query": "maceration food",
+                    "timestamp": 1662554630013
+                },
+                {
+                    "query": "Maceration is the process",
+                    "timestamp": 1662554648244
+                }
+            ],
+            "timestamp": 1662554675360
+        },
+        {
+            "id": "-NBMywNxa4sO8RRBVEOC",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMyO-JdoX7cSXRWi0_"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "In food preparation, maceration is softening or breaking into pieces using a liquid. Raw, dried or preserved fruit or vegetables are soaked in a liquid to soften the food and/or absorb the flavor of the liquid into the food.",
+            "provenance": [
+                {
+                    "page_id": "809b73bc213eb245",
+                    "page_origin": "wikipedia",
+                    "page_title": "Maceration (food)",
+                    "section_title": "Maceration (food)",
+                    "paragraph_id": "f65b5e08d67719ab",
+                    "paragraph_text": "In food preparation, maceration is softening or breaking into pieces using a liquid.",
+                    "timestamp": 1662554702037
+                },
+                {
+                    "page_id": "809b73bc213eb245",
+                    "page_origin": "wikipedia",
+                    "page_title": "Maceration (food)",
+                    "section_title": "Maceration (food)",
+                    "paragraph_id": "d08c4c75010e9673",
+                    "paragraph_text": "Raw, dried or preserved fruit or vegetables are soaked in a liquid to soften the food and/or absorb the flavor of the liquid into the food. ",
+                    "timestamp": 1662554714538
+                }
+            ],
+            "query": [
+                {
+                    "query": "Maceration",
+                    "timestamp": 1662554677246
+                },
+                {
+                    "query": "Maceration (food)",
+                    "timestamp": 1662554679289
+                }
+            ],
+            "timestamp": 1662554719806
+        },
+        {
+            "id": "-NBMz19j_4qNc4kh6Ka8",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMyO-JdoX7cSXRWi0_"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "In this context,  macerating helps break down the fruit's structure, leading to a massive reduction in volume without any cooking.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "71887bf1336d0215",
+                    "paragraph_text": "Macerating helps break down the fruit's structure, leading to a massive reduction in volume without any cooking.",
+                    "timestamp": 1662554731636
+                }
+            ],
+            "query": [],
+            "timestamp": 1662554743471
+        },
+        {
+            "id": "-NBMz9wrsqjwIMMzs4Mq",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554779448
+        },
+        {
+            "id": "-NBMzE47iL7-EdglautB",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554796361
+        },
+        {
+            "id": "-NBMzE8nC4vGybG0ihLL",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 3\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554796659
+        },
+        {
+            "id": "-NBMzIIvmCylNFQhGKLy",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "step_importance",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Why did you add tapioca starch?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662554813691
+        },
+        {
+            "id": "-NBMzvzqhPcEV7DZyz8-",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMzIIvmCylNFQhGKLy"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "The liquid you see after macerating the apples is a syrup composed primarily of brown sugar dissolved by a small amount of tart apple juice. That lack of moisture means there's no need to spend time and energy cooking the liquid down to concentrate the \"juices,\" as the liquid is already quite concentrated. Further cooking will only candy the syrup and bring out the funky flavors of caramelized fructose.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "dab0761e6b0bf116",
+                    "paragraph_text": "Further cooking will only candy the syrup and bring out the funky flavors of caramelized fructose, while the overall water content of the fruit is easily managed through a touch of tapioca starch.",
+                    "timestamp": 1662554863886
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "7670727f8d036d0d",
+                    "paragraph_text": "The liquid you see after macerating the apples is a syrup composed primarily of brown sugar dissolved by a small amount of tart apple juice. (",
+                    "timestamp": 1662554927570
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "dab0761e6b0bf116",
+                    "paragraph_text": "That lack of moisture means there's no need to spend time and energy cooking the liquid down to concentrate the \"juices,\" as the liquid is already quite concentrated in terms of both flavor and water content.",
+                    "timestamp": 1662554943953
+                }
+            ],
+            "query": [
+                {
+                    "query": "tapioca starch",
+                    "timestamp": 1662554831337
+                }
+            ],
+            "timestamp": 1662554980342
+        },
+        {
+            "id": "-NBN-0Kd3sL2EiYQzatT",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBMzIIvmCylNFQhGKLy"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "In this context, water content of the fruit is easily managed through a touch of tapioca starch.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "dab0761e6b0bf116",
+                    "paragraph_text": "Further cooking will only candy the syrup and bring out the funky flavors of caramelized fructose, while the overall water content of the fruit is easily managed through a touch of tapioca starch.",
+                    "timestamp": 1662554994069
+                }
+            ],
+            "query": [],
+            "timestamp": 1662555002217
+        },
+        {
+            "id": "-NBN-GZjQLlLiFG4lpLL",
+            "interaction_type": "text",
+            "information_need_type": "cooking_technique",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Can you show me how to pinch the crust?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555068719
+        },
+        {
+            "id": "-NBN-OvxdwI4bIbG9Mle",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Also notice that refrigerating the pie is quite important at this point",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555102973
+        },
+        {
+            "id": "-NBN-hwjlx41lFgSb1d0",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "step_importance",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Why do you refrigerate before cooking?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555184944
+        },
+        {
+            "id": "-NBN1ZV6Ntx2Y_sTahOY",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBN-hwjlx41lFgSb1d0"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Chilling ensures the dough is cold to start, which keeps the crust flaky and light.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "f334bf4ad0b70851",
+                    "paragraph_text": "Chilling ensures the dough is cold to start, which keeps the crust flaky and light.",
+                    "timestamp": 1662555667862
+                }
+            ],
+            "query": [],
+            "timestamp": 1662555670535
+        },
+        {
+            "id": "-NBN1nKKLc1By2OXC5rq",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Do you have any other questions or would you like to go to the next step?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555731285
+        },
+        {
+            "id": "-NBN1rHJexFe0I2bGNvm",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBN1nKKLc1By2OXC5rq"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555747476
+        },
+        {
+            "id": "-NBN1rjzTdkENrnw8uSn",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555749375
+        },
+        {
+            "id": "-NBN1rp7XPl-GMK6enQH",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 4\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555749704
+        },
+        {
+            "id": "-NBN1vWc_WHCTa5APDID",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "step_importance",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Why do you use an egg wash?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555764841
+        },
+        {
+            "id": "-NBN2EjKTSGk7KzSDOQn",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBN1vWc_WHCTa5APDID"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "An egg wash is often used to make pastries shiny and golden or brown in color, and it also is used to help toppings or coatings stick to the surface of the pastry, or to bind pastry parts together.",
+            "provenance": [
+                {
+                    "page_id": "c82dab0a7cad3181",
+                    "page_origin": "wikipedia",
+                    "page_title": "Egg wash",
+                    "section_title": "Use in pastries.",
+                    "paragraph_id": "3120be6a75720dac",
+                    "paragraph_text": "An egg wash is often used to make pastries shiny and golden or brown in color, and it also is used to help toppings or coatings stick to the surface of the pastry, or to bind pastry parts together, such as empanadas or other en croute recipes. Egg wash can usually be made with 30 ml or two tablespoons of liquid, such as milk or water, for every egg. Less liquid makes for a darker wash. The part of the egg used and liquid added determines the finished look of the crust. ",
+                    "timestamp": 1662555834961
+                }
+            ],
+            "query": [
+                {
+                    "query": "egg wash",
+                    "timestamp": 1662555789327
+                }
+            ],
+            "timestamp": 1662555847638
+        },
+        {
+            "id": "-NBN2Lm6oZDeN8MoGpKa",
+            "interaction_type": "text",
+            "information_need_type": "cooking_technique",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "can you show me a video of how to place the vents?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555876487
+        },
+        {
+            "id": "-NBN2TmXWpdq7DMTYZcC",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBN2Lm6oZDeN8MoGpKa"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "https://cdn.jwplayer.com/v2/media/Ern2tc8F/poster.jpg<video_separator>https://cdn.jwplayer.com/videos/Ern2tc8F.mp4",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555909282
+        },
+        {
+            "id": "-NBN2WEoajC1afEayCi4",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBN2Lm6oZDeN8MoGpKa"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Check from minute 1.47 until 1.53",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555919348
+        },
+        {
+            "id": "-NBN2XZERdRr5w3kvx7m",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBN2Lm6oZDeN8MoGpKa"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "In this step. also, make sure the vents are not too narrow.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555924752
+        },
+        {
+            "id": "-NBN2h3zN7wBwhuMw8N-",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555967807
+        },
+        {
+            "id": "-NBN2iNqp7kY49OiPunW",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555973174
+        },
+        {
+            "id": "-NBN2iTmDbYRxchhqeA1",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 5\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662555973554
+        },
+        {
+            "id": "-NBN2wVvqw8RCX-kW3_m",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "In this step, I would recommend using a glass pie plate.",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556031035
+        },
+        {
+            "id": "-NBN3-KxjTHACqMlXYgc",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "equipment",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-NBN2wVvqw8RCX-kW3_m"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Why is a glass plate better?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556046717
+        },
+        {
+            "id": "-NBN37MPWfXVMhbdmOKQ",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBN3-KxjTHACqMlXYgc"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "A glass pie plate is important because it determines the rate at which heat is conducted to the pie.  Heavy materials, like thick ceramic or stoneware, will slow that process down, which can produce a dense and greasy crust. Meanwhile, lightweight metal, like aluminum, may speed things up so much that by the time the crust is golden brown, the apples may still be a little crunchy. Glass lands right in the middle, conducting heat at a brisk but not breakneck pace, so that the crust turns out flaky and crisp just as the apples cook through.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "1bf8f28f9d2b904d",
+                    "paragraph_text": "Glass is important because it determines the rate at which heat is conducted to the pie.",
+                    "timestamp": 1662556059562
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "1bf8f28f9d2b904d",
+                    "paragraph_text": "Heavy materials, like thick ceramic or stoneware, will slow that process down, which can produce a dense and greasy crust.",
+                    "timestamp": 1662556071127
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "1bf8f28f9d2b904d",
+                    "paragraph_text": "Meanwhile, lightweight metal, like aluminum, may speed things up so much that by the time the crust is golden brown, the apples may still be a little crunchy.",
+                    "timestamp": 1662556074329
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "1bf8f28f9d2b904d",
+                    "paragraph_text": "Glass lands right in the middle, conducting heat at a brisk but not breakneck pace, so that the crust turns out flaky and crisp just as the apples cook through.",
+                    "timestamp": 1662556078378
+                }
+            ],
+            "query": [],
+            "timestamp": 1662556079578
+        },
+        {
+            "id": "-NBN3PalrpcGfguw5PFv",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556154289
+        },
+        {
+            "id": "-NBN3QfqeGoKZR7GKhX6",
+            "interaction_type": "action",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": false,
+            "participant": "agent",
+            "actions": [
+                "next"
+            ],
+            "utterance": "",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556158711
+        },
+        {
+            "id": "-NBN3QkQJWZZNzjun8p0",
+            "interaction_type": "status",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": false,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "User moved to section \"Step 6\".",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556159003
+        },
+        {
+            "id": "-NBN3aiI40HEUnYGRf3U",
+            "interaction_type": "text",
+            "information_need_type": "meal",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Can you freeze it?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556203923
+        },
+        {
+            "id": "-NBN3g3ecQSMM4CVQ6xE",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Notice that the target temperature of  195\u00b0F (91\u00b0C),  is significantly cooler than the goal temperature for most fruit pie fillings.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "e98d71c944511e5f",
+                    "paragraph_text": "Bake until the pie reaches an internal temperature of 195\u00b0F (91\u00b0C), about 75 minutes.",
+                    "timestamp": 1662556209144
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "e98d71c944511e5f",
+                    "paragraph_text": "This is significantly cooler than the goal temperature for most fruit pie fillings, which are typically brought to a full boil, but it keeps the apples tender rather than mushy and avoids the problem of a watery pie.",
+                    "timestamp": 1662556216760
+                }
+            ],
+            "query": [],
+            "timestamp": 1662556225835
+        },
+        {
+            "id": "-NBN3sqwJLLFaEV0mmnU",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBN3aiI40HEUnYGRf3U"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "I'm sorry, I do not think I have this information",
+            "provenance": [],
+            "query": [
+                {
+                    "query": "freeze apple pie",
+                    "timestamp": 1662556238440
+                }
+            ],
+            "timestamp": 1662556278204
+        },
+        {
+            "id": "-NBN3wucEXib4LsRDcY6",
+            "interaction_type": "text",
+            "information_need_type": "time",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "i warm if for? How long do",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556294824
+        },
+        {
+            "id": "-NBN4-8ISzy-cxBKa2ds",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-NBN3wucEXib4LsRDcY6"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Can you rephrase your question?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556308051
+        },
+        {
+            "id": "-NBN4-lG3JSLwlFdjPco",
+            "interaction_type": "text",
+            "information_need_type": "time",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-NBN4-8ISzy-cxBKa2ds"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "How long do I warm it for?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556310609
+        },
+        {
+            "id": "-NBN4BiyPkijd3HWKuTn",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBN4-lG3JSLwlFdjPco"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "You should bake the pie bake until it reaches 195\u00b0F (91\u00b0C) in the very center. In other words, for about 75 minutes.",
+            "provenance": [
+                {
+                    "page_id": "1ffb7a15711b4258",
+                    "page_origin": "excel",
+                    "page_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "section_title": "Easy, Old-Fashioned Apple Pie Recipe | BraveTart",
+                    "paragraph_id": "8b575dc7fd83f6a9",
+                    "paragraph_text": "To Bake: Place pie on a parchment-lined aluminum half sheet pan and bake until 195\u00b0F (91\u00b0C) in the very center, about 75 minutes.",
+                    "timestamp": 1662556321881
+                }
+            ],
+            "query": [],
+            "timestamp": 1662556359615
+        },
+        {
+            "id": "-NBN4F-MLwTJ11aqy-6b",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556373015
+        },
+        {
+            "id": "-NBN4S9NsGoLkBrw62tz",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-NBN4F-MLwTJ11aqy-6b"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "before going to the next step, can I ask you why you think we should bake our cake at a temperature that is significantly cooler than the goal temperature for most fruit pie fillings?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556426904
+        },
+        {
+            "id": "-NBN4aCRulQ6iCLlrV8K",
+            "interaction_type": "text",
+            "information_need_type": "knowledge",
+            "information_need_subtype": "step_importance",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBN4S9NsGoLkBrw62tz"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Because you are cooking it for longer instead",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556463964
+        },
+        {
+            "id": "-NBN4lM6vOvo6__zIxpx",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBN4aCRulQ6iCLlrV8K"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "When brought to a boil, apples break down and release their juices completely, flooding the pie. A slightly-cooler-than-standard target temperature keeps the apples plump and juicy, with enough structure to retain their own water content, so there isn't as much need for starch.",
+            "provenance": [
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "e98d71c944511e5f",
+                    "paragraph_text": "When brought to a boil, apples break down and release their juices completely, flooding the pie.",
+                    "timestamp": 1662556491196
+                },
+                {
+                    "page_id": "6290daa1c335591b",
+                    "page_origin": "excel",
+                    "page_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "section_title": "BraveTart: How to Make Old-Fashioned Apple Pie, No Gimmicks Required",
+                    "paragraph_id": "e98d71c944511e5f",
+                    "paragraph_text": "A slightly-cooler-than-standard target temperature keeps the apples plump and juicy, with enough structure to retain their own water content, so there isn't as much need for starch.",
+                    "timestamp": 1662556492012
+                }
+            ],
+            "query": [],
+            "timestamp": 1662556509639
+        },
+        {
+            "id": "-NBN4zFc2rHAdysrs8kx",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "question",
+            "parent": [
+                "-NBN4aCRulQ6iCLlrV8K"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "Do you have any other questions about this step?",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556566568
+        },
+        {
+            "id": "-NBN5-RFk57U76WB5I_2",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "answer",
+            "parent": [
+                "-NBN4lM6vOvo6__zIxpx",
+                "-NBN4zFc2rHAdysrs8kx"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "no",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556571408
+        },
+        {
+            "id": "-NBN50aRWSxGwrpbCEt2",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "next",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556576156
+        },
+        {
+            "id": "-NBN54yYGv1IdYXufhSY",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBN50aRWSxGwrpbCEt2"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "agent",
+            "actions": [],
+            "utterance": "You reached the last step in this recipe! Well done!",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556594084
+        },
+        {
+            "id": "-NBN5DnPJauhemvrUFP1",
+            "interaction_type": "text",
+            "information_need_type": "",
+            "information_need_subtype": "",
+            "utterance_type": "",
+            "dialogue_act": "other",
+            "parent": [
+                "-NBN54yYGv1IdYXufhSY"
+            ],
+            "visible_to_user": true,
+            "visible_to_agent": true,
+            "participant": "user",
+            "actions": [],
+            "utterance": "Thank you",
+            "provenance": [],
+            "query": [],
+            "timestamp": 1662556630234
+        }
+    ]
+}

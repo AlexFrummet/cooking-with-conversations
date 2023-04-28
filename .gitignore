@@ -151,3 +151,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 statistical_analyses/woz_data_analysis_files/.DS_Store
+.DS_Store
+.DS_Store

@@ -1,0 +1,1 @@
+Prompt for GPT-3: "How many facts are in this text. User instructions should not be considered as facts: "{utterance}". Provide a digit as response."
