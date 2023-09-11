@@ -12,3 +12,13 @@ def load_conversations(condition, number_conversations):
                 results.append(conversation_dict)
 
     return results
+
+def load_dataset(path):
+    with open(path) as f:
+        result = set()
+        for line in f:
+            line = line.strip()
+            line_json = json.loads(line)
+            if line_json['page_id'] not in result:
+                result.add(line_json['page_id'])
+    return result
