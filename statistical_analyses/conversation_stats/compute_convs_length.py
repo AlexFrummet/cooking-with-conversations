@@ -1,18 +1,8 @@
-from collections import OrderedDict
-import json
 from tabulate import tabulate
 
+from statistical_analyses.utils import load_conversations
 
-def load_conversations(condition, number_conversations):
-    results = []
-    for i in range(number_conversations):
-        with open(f'../../data/{condition}/conversation_{i}.json') as f:
-            conversation_dict = json.loads(f.read(),
-                                           object_pairs_hook=OrderedDict)
 
-            results.append(conversation_dict)
-
-    return results
 
 
 def length_utterances(conversation, participant=None):
